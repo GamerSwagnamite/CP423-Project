@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-246E",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "246E",
+  "title": "Object-Oriented Software Development (Enriched)",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 136L, a grade of 85% in either CS 136 or CS 146; Honours Mathematics students only. Antireq: CS 246, SYDE 322",
+  "text": "CS 246E: Object-Oriented Software Development (Enriched)\nDescription: Enriched version of CS246.\nRequirements: Prereq: CS 136L, a grade of 85% in either CS 136 or CS 146; Honours Mathematics students only. Antireq: CS 246, SYDE 322"
+}

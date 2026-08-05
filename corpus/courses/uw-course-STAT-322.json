@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-322",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "322",
+  "title": "Sampling and Experimental Design (Non-Specialist Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 221 or 231 or 241. Antireq: STAT 332, 372",
+  "text": "STAT 322: Sampling and Experimental Design (Non-Specialist Level)\nDescription: Planning sample surveys; simple random sampling; stratified sampling. Observational and experimental studies. Blocking, randomization, factorial designs. Analysis of variance. Applications of design principles.\nRequirements: Prereq: STAT 221 or 231 or 241. Antireq: STAT 332, 372"
+}

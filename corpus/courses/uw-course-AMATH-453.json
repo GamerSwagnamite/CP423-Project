@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-453",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "453",
+  "title": "Partial Differential Equations 2",
+  "academic_career": "UG",
+  "requirements": "Prereq: AMATH 351 and 353",
+  "text": "AMATH 453: Partial Differential Equations 2\nDescription: A thorough discussion of the class of second order linear partial differential equations with constant coefficients, in two independent variables. Laplace's equation, the wave equation and the heat equation in higher dimensions. Theoretical/qualitative aspects: well-posed problems, maximum principles for elliptic and parabolic equations, continuous dependence results, uniqueness results (including consideration of unbounded domains), domain of dependence for hyperbolic equations. Solution procedures: elliptic equations -- Green functions, conformal mapping; hyperbolic equations -- generalized d'Alembert solution, spherical means, method of descent; transform methods -- Fourier, multiple Fourier, Laplace, Hankel (for all three types of partial differential equations); Duhamel's method for inhomogeneous hyperbolic and parabolic equations.\nRequirements: Prereq: AMATH 351 and 353"
+}

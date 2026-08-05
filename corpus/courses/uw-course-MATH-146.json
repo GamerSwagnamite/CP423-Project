@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-146",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "146",
+  "title": "Linear Algebra 1 (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 145; Honours Mathematics students only.  Antireq: MATH 106, 114, 115, 136, NE 112",
+  "text": "MATH 146: Linear Algebra 1 (Advanced Level)\nDescription: MATH146 is an advanced-level version of MATH136.\nRequirements: Prereq: MATH 145; Honours Mathematics students only.  Antireq: MATH 106, 114, 115, 136, NE 112"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-487",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "487",
+  "title": "Introduction to Symbolic Computation",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 231 or 234 or 240/240E; Honours Mathematics only",
+  "text": "CS 487: Introduction to Symbolic Computation\nDescription: An introduction to the use of computers for symbolic mathematical computation, involving traditional mathematical computations such as solving linear equations (exactly), analytic differentiation and integration of functions, and analytic solution of differential equations.\nRequirements: Prereq: CS 231 or 234 or 240/240E; Honours Mathematics only"
+}

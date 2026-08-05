@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-119",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "119",
+  "title": "Calculus 2 for Engineering",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of MATH 116, 117, 127, 137, 147; Open only to students in Electrical and Computer Engineering or Software Engineering or Nanotechnology Engineering. Antireq: MATH 118, 128, 138, 148",
+  "text": "MATH 119: Calculus 2 for Engineering\nDescription: Elementary approximation methods: interpolation; Taylor polynomials and remainder; Newton's method, Landau order symbol, applications. Infinite series: Taylor series and Taylor's Remainder Theorem, geometric series, convergence test, power series, applications. Functions of several variables: partial derivatives, linear approximation and differential, gradient and directional derivative, optimization and Lagrange multipliers. Vector-valued functions: parametric representation of curves, tangent and normal vectors, line integrals and applications.\nRequirements: Prereq: One of MATH 116, 117, 127, 137, 147; Open only to students in Electrical and Computer Engineering or Software Engineering or Nanotechnology Engineering. Antireq: MATH 118, 128, 138, 148"
+}

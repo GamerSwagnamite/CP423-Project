@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-475",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "475",
+  "title": "Computational Linear Algebra",
+  "academic_career": "UG",
+  "requirements": "Prereq: AMATH 242/CS 371 or CS 370. Antireq: CS 372, 472",
+  "text": "CS 475: Computational Linear Algebra\nDescription: Basic concepts and implementation of numerical linear algebra techniques and their use in solving application problems. Special methods for solving linear systems having special features. Direct methods: symmetric, positive definite, band, general sparse structures, ordering methods. Iterative methods: Jacobi, Gauss-Seidel, SOR, conjugate gradient. Computing and using orthogonal factorizations of matrices. QR and SVD methods for solving least squares problems. Eigenvalue and singular value decompositions. Computation and uses of these decompositions in practice.\nRequirements: Prereq: AMATH 242/CS 371 or CS 370. Antireq: CS 372, 472"
+}

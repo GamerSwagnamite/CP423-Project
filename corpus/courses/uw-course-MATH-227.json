@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-227",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "227",
+  "title": "Calculus 3 for Honours Physics",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 128 or 138; Only open to Science students in honours plans. Antireq: AMATH 231, MATH 207, 212/ECE 206, 217, 237, 247, MATH 212N/NE 217",
+  "text": "MATH 227: Calculus 3 for Honours Physics\nDescription: Directional derivative and the chain rule for multivariable functions. Optimization, Lagrange multipliers. Double and triple integrals on simple domains; transformations and Jacobians; change of variable in multiple integrals. Vector fields, divergence and curl. Vector integral calculus: Line and surface integrals, Green's Theorem, Stokes' Theorem, Gauss' Theorem, conservative vector fields.\nRequirements: Prereq: MATH 128 or 138; Only open to Science students in honours plans. Antireq: AMATH 231, MATH 207, 212/ECE 206, 217, 237, 247, MATH 212N/NE 217"
+}

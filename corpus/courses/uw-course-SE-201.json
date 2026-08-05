@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-SE-201",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "SE",
+  "catalog_number": "201",
+  "title": "Seminar",
+  "academic_career": "UG",
+  "requirements": "Prereq: Software Engineering",
+  "text": "SE 201: Seminar\nDescription: General seminar.\nRequirements: Prereq: Software Engineering"
+}

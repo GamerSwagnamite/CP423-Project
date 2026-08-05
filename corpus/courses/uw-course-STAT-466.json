@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-466",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "466",
+  "title": "Topics in Statistics 1",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 330, 331",
+  "text": "STAT 466: Topics in Statistics 1\nDescription: Special topics course as announced by the Department.\nRequirements: Prereq: STAT 330, 331"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-XXX",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "XXX",
+  "title": "CS Transfer Credit",
+  "academic_career": "UG",
+  "requirements": "",
+  "text": "CS XXX: CS Transfer Credit\nDescription: Miscellaneous CS transfer credit course."
+}

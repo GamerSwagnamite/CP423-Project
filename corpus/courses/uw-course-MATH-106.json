@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-106",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "106",
+  "title": "Applied Linear Algebra 1",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 103 or 4U Calculus and Vectors; Not open to Computer Science students. Antireq: MATH 114, 115, 136, 146, NE 112",
+  "text": "MATH 106: Applied Linear Algebra 1\nDescription: Systems of linear equations. Matrix algebra. Determinants. Introduction to vector spaces. Applications.\nRequirements: Prereq: MATH 103 or 4U Calculus and Vectors; Not open to Computer Science students. Antireq: MATH 114, 115, 136, 146, NE 112"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-447",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "447",
+  "title": "Software Testing, Quality Assurance, and Maintenance",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: SE 465",
+  "text": "CS 447: Software Testing, Quality Assurance, and Maintenance\nDescription: Introduces students to systematic testing of software systems. Software verification, reviews, metrics, quality assurance, and prediction of software reliability and availability. Related management issues.\nRequirements: Prereq: CS 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: SE 465"
+}

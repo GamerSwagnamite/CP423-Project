@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-218",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "218",
+  "title": "Differential Equations for Engineers",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of MATH 118, 119, 128, 138, 148, SYDE 112; Engineering or Earth Science students only.  Antireq: AMATH 250, 251, 350, 351, CIVE 222,  ENVE 223, MATH 211/ECE 205, 228, MATH 212N/NE 217, ME 203, SYDE 211",
+  "text": "MATH 218: Differential Equations for Engineers\nDescription: First order equations, second order linear equations with constant coefficients, series solutions, the Laplace transform method, systems of linear differential equations. Applications in engineering are emphasized.\nRequirements: Prereq: One of MATH 118, 119, 128, 138, 148, SYDE 112; Engineering or Earth Science students only.  Antireq: AMATH 250, 251, 350, 351, CIVE 222,  ENVE 223, MATH 211/ECE 205, 228, MATH 212N/NE 217, ME 203, SYDE 211"
+}

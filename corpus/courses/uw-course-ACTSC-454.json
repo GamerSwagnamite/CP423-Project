@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-454",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "454",
+  "title": "Longevity and Mortality Using Predictive Analytics",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 331, STAT 330; Actuarial Science or Mathematical Finance students only",
+  "text": "ACTSC 454: Longevity and Mortality Using Predictive Analytics\nDescription: Kaplan-Meier and Nelson-Aalen estimators for survival functions. Kernel density models. Validation of mortality tables. Estimators for Markov multiple state transition intensities. Longevity models, including deterministic and stochastic models such as Lee-Carter and Cairns-Blake-Dowd.\nRequirements: Prereq: ACTSC 331, STAT 330; Actuarial Science or Mathematical Finance students only"
+}

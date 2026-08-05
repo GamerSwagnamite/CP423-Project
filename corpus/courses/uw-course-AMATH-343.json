@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-343",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "343",
+  "title": "Discrete Models in Applied Mathematics",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 128 or 138 or 148",
+  "text": "AMATH 343: Discrete Models in Applied Mathematics\nDescription: Difference equations and discrete dynamical systems. Mathematical models are taken from ecology, biology, economics, and other fields.\nRequirements: Prereq: MATH 128 or 138 or 148"
+}

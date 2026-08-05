@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-103",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "103",
+  "title": "Introductory Algebra for Arts and Social Science",
+  "academic_career": "UG",
+  "requirements": "Prereq: Open only to students in the following faculties: ARTS, AHS or ENV. Not open to Acc'ting & Fin Mgt students. Antireq: MATH 106, 114, 115, 136, 146, NE 112",
+  "text": "MATH 103: Introductory Algebra for Arts and Social Science\nDescription: An introduction to applications of algebra to business, the behavioural sciences, and the social sciences. Topics will be chosen from linear equations, systems of linear equations, linear inequalities, functions, set theory, permutations and combinations, binomial theorem, probability theory.\nRequirements: Prereq: Open only to students in the following faculties: ARTS, AHS or ENV. Not open to Acc'ting & Fin Mgt students. Antireq: MATH 106, 114, 115, 136, 146, NE 112"
+}

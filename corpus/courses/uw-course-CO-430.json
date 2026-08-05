@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-430",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "430",
+  "title": "Algebraic Enumeration",
+  "academic_career": "UG",
+  "requirements": "Prereq: CO 330; Cumulative overall average of at least 80%",
+  "text": "CO 430: Algebraic Enumeration\nDescription: The Lagrange Implicit Function Theorem, the MacMahon Master Theorem. Enumeration of planar triangulations. The transfer matrix method. Sieve methods, inclusion/exclusion, Mobius inversion. Polya enumeration, Enumeration of trees. Basic hypergeometric series, q-analogues, Rogers-Ramanujan identities. Asymptotic methods.\nRequirements: Prereq: CO 330; Cumulative overall average of at least 80%"
+}

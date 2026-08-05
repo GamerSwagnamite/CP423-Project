@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-250",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "250",
+  "title": "Introduction to Optimization",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of (MATH 106, MATH 114, MATH 115 with a grade of at least 70%) or MATH 136 or MATH 146; cumulative overall average of at least 60%. Antireq: CO 227, 255",
+  "text": "CO 250: Introduction to Optimization\nDescription: A broad introduction to the field of optimization, discussing applications, and solution techniques. Mathematical models for real life applications; algorithms; aspects of computational complexity; geometry; linear programming duality, focusing on the development of algorithms.\nRequirements: Prereq: One of (MATH 106, MATH 114, MATH 115 with a grade of at least 70%) or MATH 136 or MATH 146; cumulative overall average of at least 60%. Antireq: CO 227, 255"
+}

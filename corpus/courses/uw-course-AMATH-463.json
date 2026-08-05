@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-463",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "463",
+  "title": "Fluid Mechanics",
+  "academic_career": "UG",
+  "requirements": "Prereq: (AMATH 353 or PHYS 364) and AMATH 361.",
+  "text": "AMATH 463: Fluid Mechanics\nDescription: Incompressible, irrotational flow. Incompressible viscous flow. Introduction to wave motion and geophysical fluid mechanics. Elements of compressible flow.\nRequirements: Prereq: (AMATH 353 or PHYS 364) and AMATH 361."
+}

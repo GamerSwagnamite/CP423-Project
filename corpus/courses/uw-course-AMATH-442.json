@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-442",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "442",
+  "title": "Computational Methods for Partial Differential Equations",
+  "academic_career": "UG",
+  "requirements": "Prereq: AMATH 342",
+  "text": "AMATH 442: Computational Methods for Partial Differential Equations\nDescription: This course studies several classes of methods for the numerical solution of partial differential equations in multiple dimensions on structured and unstructured grids. Finite volume methods for hyperbolic conservation laws: linear and nonlinear hyperbolic systems; stability; numerical conservation. Finite element methods for elliptic and parabolic equations: weak forms; existence of solutions; optimal convergence; higher-order methods. Examples from fluid and solid mechanics. Additional topics as time permits.\nRequirements: Prereq: AMATH 342"
+}

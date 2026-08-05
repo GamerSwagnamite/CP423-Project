@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-455",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "455",
+  "title": "Control Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: (AMATH/PMATH 332 or PMATH 352) and AMATH 351",
+  "text": "AMATH 455: Control Theory\nDescription: Feedback control with applications. System theory in both time and frequency domain, state-space computations, stability, system uncertainty, loopshaping, linear quadratic regulators, and estimation.\nRequirements: Prereq: (AMATH/PMATH 332 or PMATH 352) and AMATH 351"
+}

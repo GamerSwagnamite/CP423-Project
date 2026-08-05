@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-207",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "207",
+  "title": "Calculus 3 (Non-Specialist Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 128 or 138 or 148. Antireq: AMATH 231, MATH 212, 212N/NE 217, MATH 217, 227, 237, 247",
+  "text": "MATH 207: Calculus 3 (Non-Specialist Level)\nDescription: Multivariable functions and partial derivatives. Gradients. Optimization including Lagrange multipliers. Polar coordinates. Multiple integrals. Surface integrals on spheres and cylinders. Introduction to Fourier Series.\nRequirements: Prereq: MATH 128 or 138 or 148. Antireq: AMATH 231, MATH 212, 212N/NE 217, MATH 217, 227, 237, 247"
+}

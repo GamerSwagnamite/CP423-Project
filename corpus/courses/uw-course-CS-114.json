@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-114",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "114",
+  "title": "Principles of Computing for Science",
+  "academic_career": "UG",
+  "requirements": "Prereq: Not open to Faculty of Math students. Antireq: CS 116, 135, 136, 137, 138, 145, 146, BME 121, CHE 120, CIVE 121, ECE 150, GENE 121/MTE 121, ME 101, MSE 121, NE 111, PHYS 236, SYDE 121",
+  "text": "CS 114: Principles of Computing for Science\nDescription: Introduction to basic imperative programming principles; programming concepts including functions, flow control, lists, arrays; numerical accuracy and efficiency; data analysis and general-purpose algorithms. Introduction to object-oriented programming concepts.\nRequirements: Prereq: Not open to Faculty of Math students. Antireq: CS 116, 135, 136, 137, 138, 145, 146, BME 121, CHE 120, CIVE 121, ECE 150, GENE 121/MTE 121, ME 101, MSE 121, NE 111, PHYS 236, SYDE 121"
+}

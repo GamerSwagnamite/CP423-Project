@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-211",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "211",
+  "title": "Introductory Statistics and Sampling for Accounting",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 109; Arts/Acc and SciBiot/CA students only.",
+  "text": "STAT 211: Introductory Statistics and Sampling for Accounting\nDescription: Descriptive statistics, probability, discrete and continuous random variables. Sampling distributions and simple hypothesis testing. Introduction to survey sampling.\nRequirements: Prereq: MATH 109; Arts/Acc and SciBiot/CA students only."
+}

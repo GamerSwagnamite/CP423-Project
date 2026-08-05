@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-348",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "348",
+  "title": "Introduction to Database Management",
+  "academic_career": "UG",
+  "requirements": "Prereq: Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Coreq: CS 240/240E. Antireq: CS 338, ECE 356, 456, MSCI 346",
+  "text": "CS 348: Introduction to Database Management\nDescription: The main objective of this course is to introduce students to fundamentals of database technology by studying databases from three viewpoints: those of the database user, the database designer, and the database administrator. It teaches the use of a database management system (DBMS) by treating it as a black box, focusing only on its functionality and its interfaces. Topics include introduction to database systems, relational database systems, database design methodology, SQL and interfaces, database application development, concept of transactions, ODBC, JDBC, database tuning, database administration, and current topics (distributed databases, data warehouses, data mining).\nRequirements: Prereq: Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Coreq: CS 240/240E. Antireq: CS 338, ECE 356, 456, MSCI 346"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-SE-465",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "SE",
+  "catalog_number": "465",
+  "title": "Software Testing and Quality Assurance",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 246/246E or 247; Software Engineering. Antireq: CS 447, ECE 453",
+  "text": "SE 465: Software Testing and Quality Assurance\nDescription: Introduces students to systematic testing of software systems. Software verification, reviews, metrics, quality assurance, and prediction of software reliability and availability. Related management issues.\nRequirements: Prereq: CS 246/246E or 247; Software Engineering. Antireq: CS 447, ECE 453"
+}

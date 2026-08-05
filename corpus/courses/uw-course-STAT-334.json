@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-334",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "334",
+  "title": "Probability Models for Business and Accounting",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 237 or 247, (STAT 230 with a grade of at least 60% or STAT 240); STAT 231 or 241; Business/Math double degree, Mathematics/CPA or Math/Business students only. Antireq: STAT 330, 333",
+  "text": "STAT 334: Probability Models for Business and Accounting\nDescription: Random variables and distribution theory, conditional expectations, moment and probability generating functions, change of variables, random walks, Markov chains, Markov processes.\nRequirements: Prereq: MATH 237 or 247, (STAT 230 with a grade of at least 60% or STAT 240); STAT 231 or 241; Business/Math double degree, Mathematics/CPA or Math/Business students only. Antireq: STAT 330, 333"
+}

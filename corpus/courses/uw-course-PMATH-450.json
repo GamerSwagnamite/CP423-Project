@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-450",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "450",
+  "title": "Lebesgue Integration and Fourier Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: PMATH 351 with a grade of at least of 60%",
+  "text": "PMATH 450: Lebesgue Integration and Fourier Analysis\nDescription: Lebesgue measure on the line, the Lebesgue integral, monotone and dominated convergence theorems, Lp-spaces: completeness and dense subspaces. Separable Hilbert space, orthonormal bases. Fourier analysis on the circle, Dirichlet kernel, Riemann-Lebesgue lemma, Fejer's theorem, and convergence of Fourier series.\nRequirements: Prereq: PMATH 351 with a grade of at least of 60%"
+}

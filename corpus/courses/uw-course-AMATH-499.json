@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-499",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "499",
+  "title": "Research Project",
+  "academic_career": "UG",
+  "requirements": "Prereq: Level at least 4A Applied Mathematics (all specializations), Mathematical Physics (Faculty of Mathematics), Joint Applied Mathematics, or Applied Mathematics with Scientific Computing",
+  "text": "AMATH 499: Research Project\nDescription: A research-based course that allows students with an interest in applied mathematics or mathematical physics to participate in a research project with a faculty member. The student is required to approach a faculty member of the Department of Applied Mathematics for supervision. The enrolled student is expected to hand in a written report of their research to the supervisor and present a summary of the project orally in front of a subset of the applied mathematics undergraduate committee as a final assessment.\nRequirements: Prereq: Level at least 4A Applied Mathematics (all specializations), Mathematical Physics (Faculty of Mathematics), Joint Applied Mathematics, or Applied Mathematics with Scientific Computing"
+}

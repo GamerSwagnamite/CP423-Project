@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-350",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "350",
+  "title": "Differential Equations for Business and Economics",
+  "academic_career": "UG",
+  "requirements": "Prereq:(One of MATH106, 136, 146), 237 or 247, STAT 230or240 &(one of AFM 272/ACTSC291,ACTSC371,372,ECON371,BUS393W);Lev at least 3A;Not open to GenMath stdts. Antireq:AMATH250,251,353,CIVE222, ENVE223,MATH211/ECE205,MATH218,228,ME203,PHYS364,SYDE211",
+  "text": "AMATH 350: Differential Equations for Business and Economics\nDescription: First order ordinary differential equations. Applications to continuous compounding and the dynamics of supply and demand. Higher order linear ordinary differential equations. Systems of linear ordinary differential equations. Introduction to linear partial differential equations. The Fourier Transform and the diffusion equation. Discussion of the Black-Scholes partial differential equations, and solutions thereof.\nRequirements: Prereq:(One of MATH106, 136, 146), 237 or 247, STAT 230or240 &(one of AFM 272/ACTSC291,ACTSC371,372,ECON371,BUS393W);Lev at least 3A;Not open to GenMath stdts. Antireq:AMATH250,251,353,CIVE222, ENVE223,MATH211/ECE205,MATH218,228,ME203,PHYS364,SYDE211"
+}

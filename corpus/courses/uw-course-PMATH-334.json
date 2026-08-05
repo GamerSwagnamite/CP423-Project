@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-334",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "334",
+  "title": "Introduction to Rings and Fields with Applications",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245. Antireq: PMATH 348",
+  "text": "PMATH 334: Introduction to Rings and Fields with Applications\nDescription: Rings, ideals, factor rings, homomorphisms, finite and infinite fields, polynomials and roots, field extensions, algebraic numbers, and applications, for example, to Latin squares, finite geometries, geometrical constructions, error-correcting codes.\nRequirements: Prereq: MATH 235 or 245. Antireq: PMATH 348"
+}

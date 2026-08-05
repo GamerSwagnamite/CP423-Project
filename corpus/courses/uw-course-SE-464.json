@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-SE-464",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "SE",
+  "catalog_number": "464",
+  "title": "Software Design and Architectures",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 246/246E or 247; Software Engineering. Antireq: CS 446, ECE 452",
+  "text": "SE 464: Software Design and Architectures\nDescription: Introduces students to the design, implementation, and evolution phases of software development. Software design processes, methods, and notation. Implementation of designs. Evolution of designs and implementations. Management of design activities.\nRequirements: Prereq: CS 246/246E or 247; Software Engineering. Antireq: CS 446, ECE 452"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-486",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "486",
+  "title": "Introduction to Artificial Intelligence",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 341; Computer Science and BMath (Data Science) students only. Coreq: STAT 206 or 231 or 241.",
+  "text": "CS 486: Introduction to Artificial Intelligence\nDescription: Goals and methods of artificial intelligence. Methods of general problem solving. Knowledge representation and reasoning. Planning. Reasoning about uncertainty. Machine learning. Multi-agent systems. Natural language processing.\nRequirements: Prereq: CS 341; Computer Science and BMath (Data Science) students only. Coreq: STAT 206 or 231 or 241."
+}

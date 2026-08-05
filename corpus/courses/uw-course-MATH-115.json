@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-115",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "115",
+  "title": "Linear Algebra for Engineering",
+  "academic_career": "UG",
+  "requirements": "Prereq: 4U Calculus and Vectors or 4U Mathematics of Data Management; Engineering students only. Antireq: MATH 106, 114, 136, 146, NE 112",
+  "text": "MATH 115: Linear Algebra for Engineering\nDescription: Linear equations, matrices, and determinants. Introduction to vector spaces. Eigenvalues and diagonalization. Applications. Complex numbers.\nRequirements: Prereq: 4U Calculus and Vectors or 4U Mathematics of Data Management; Engineering students only. Antireq: MATH 106, 114, 136, 146, NE 112"
+}

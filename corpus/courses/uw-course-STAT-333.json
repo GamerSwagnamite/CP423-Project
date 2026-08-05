@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-333",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "333",
+  "title": "Stochastic Processes 1",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 230 with a grade of at least 60% or STAT 240; MATH 237 or 247. Antireq: STAT 334",
+  "text": "STAT 333: Stochastic Processes 1\nDescription: This course provides an introduction to stochastic processes, with an emphasis on regenerative phenomena. Topics cover generating functions, conditional probability distributions and conditional expectation, discrete-time Markov chains with a countable state space, limit distributions for ergodic and absorbing chains, applications including the random walk, the gambler's ruin problem, and the Galton-Watson branching process, an introduction to counting processes, connections between the exponential distribution and Poisson process, and non-homogeneous and compound Poisson processes.\nRequirements: Prereq: STAT 230 with a grade of at least 60% or STAT 240; MATH 237 or 247. Antireq: STAT 334"
+}

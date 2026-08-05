@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-230",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "230",
+  "title": "Probability",
+  "academic_career": "UG",
+  "requirements": "Prereq: ((One of MATH 116, 117, 137, 147) with a minimum grade of 80%) or (MATH 128 with a minimum grade of 60%) or (one of MATH 118, 119, 138, 148); Honours Math or Math/Phys students only. Antireq: STAT 220, 240",
+  "text": "STAT 230: Probability\nDescription: This course provides an introduction to probability models including sample spaces, mutually exclusive and independent events, conditional probability and Bayes' Theorem. The named distributions (Discrete Uniform, Hypergeometric, Binomial, Negative Binomial, Geometric, Poisson, Continuous Uniform, Exponential, Normal (Gaussian), and Multinomial) are used to model real phenomena. Discrete and continuous univariate random variables and their distributions are discussed. Joint probability functions, marginal probability functions, and conditional probability functions of two or more discrete random variables and functions of random variables are also discussed. Students learn how to calculate and interpret means, variances and covariances particularly for the named distributions. The Central Limit Theorem is used to approximate probabilities.\nRequirements: Prereq: ((One of MATH 116, 117, 137, 147) with a minimum grade of 80%) or (MATH 128 with a minimum grade of 60%) or (one of MATH 118, 119, 138, 148); Honours Math or Math/Phys students only. Antireq: STAT 220, 240"
+}

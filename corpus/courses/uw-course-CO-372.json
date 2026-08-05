@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-372",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "372",
+  "title": "Portfolio Optimization Models",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of AFM 272/ACTSC 291, ACTSC 371, ACTSC 372, BUS 393W, ECON 371; CO 227 with a grade of at least 70% or One of CO 250, CO 255, CO 352. Antireq: CO 370 taken prior to winter 2004",
+  "text": "CO 372: Portfolio Optimization Models\nDescription: Computational optimization methodologies underlying portfolio problems in finance. Computational linear algebra, determining derivatives, quadratic, and nonlinear optimization. The efficient frontier problem. Applications of optimization in finance such as volatility surface determination and global minimization for value-at-risk.\nRequirements: Prereq: One of AFM 272/ACTSC 291, ACTSC 371, ACTSC 372, BUS 393W, ECON 371; CO 227 with a grade of at least 70% or One of CO 250, CO 255, CO 352. Antireq: CO 370 taken prior to winter 2004"
+}

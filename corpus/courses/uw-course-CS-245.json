@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-245",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "245",
+  "title": "Logic and Computation",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of CS 136, 138, 146), (MATH 135 or MATH 145); Honours Mathematics students only. Antireq: CS 245E, PMATH 330, ECE 208, SE 212",
+  "text": "CS 245: Logic and Computation\nDescription: Logic as a tool for representation, reasoning, and computation. Propositional and predicate logic. Formalizing the notions of correct and incorrect reasoning, defining what is computable, and exploring the limits of computation. Godel's Incompleteness Theorem. Applications of logic to computer science.\nRequirements: Prereq: (One of CS 136, 138, 146), (MATH 135 or MATH 145); Honours Mathematics students only. Antireq: CS 245E, PMATH 330, ECE 208, SE 212"
+}

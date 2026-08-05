@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-333",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "333",
+  "title": "Calculus on Manifolds for Applied Mathematics and Physics",
+  "academic_career": "UG",
+  "requirements": "Prereq: PHYS 121; One of MATH 114, 136, 146; One of AMATH 231, MATH 227, PMATH 365",
+  "text": "AMATH 333: Calculus on Manifolds for Applied Mathematics and Physics\nDescription: Manifolds and tensors, Lie derivatives and Lie groups, differential forms and applications to physics. This course covers the basic concepts of differential geometry from the perspective of its applications to physics. The course focuses on the concepts and the techniques that allow us to formulate physical problems in the powerful language of differential geometry including thermodynamics, classical mechanics, fluid dynamics, and relativity.\nRequirements: Prereq: PHYS 121; One of MATH 114, 136, 146; One of AMATH 231, MATH 227, PMATH 365"
+}

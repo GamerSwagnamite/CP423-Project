@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-330",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "330",
+  "title": "Combinatorial Enumeration",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 239 or 249",
+  "text": "CO 330: Combinatorial Enumeration\nDescription: The algebra of formal power series. The combinatorics of the ordinary and exponential generating series. Lagrange's implicit function theorem, applications to the enumeration of permutations, functions, trees and graphs. Integer partitions, geometric methods, enumerating linear transformations. Introduction to the pattern algebra, applications to the enumeration of strings. Lattice paths, Wiener-Hopf factorization. Enumeration under symmetries.\nRequirements: Prereq: MATH 239 or 249"
+}

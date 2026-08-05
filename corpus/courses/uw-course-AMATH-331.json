@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-331",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "331",
+  "title": "Applied Real Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 237 or 247. Antireq: PMATH 333, PMATH 351",
+  "text": "AMATH 331: Applied Real Analysis\nDescription: Topology of Euclidean spaces, continuity, norms, completeness. Contraction mapping principle. Fourier series. Various applications, for example, to ordinary differential equations, optimization and numerical approximation.\nRequirements: Prereq: MATH 237 or 247. Antireq: PMATH 333, PMATH 351"
+}

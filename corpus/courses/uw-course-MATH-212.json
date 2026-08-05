@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-212",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "212",
+  "title": "Adv Calculus 2 for Electrical Engineers",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 211/ECE 205; Not open to Mathematics students. Antireq: AMATH 231, MATH 207, 217, 227, 237, 247",
+  "text": "MATH 212: Adv Calculus 2 for Electrical Engineers\nDescription: Triple integrals, cylindrical and spherical polar coordinates. Divergence and curl, applications. Surface integrals, Green's, Gauss' and Stokes' theorems, applications. Complex functions, analytic functions, contour integrals, Cauchy's integral formula, Laurent series, residues.\nRequirements: Prereq: MATH 211/ECE 205; Not open to Mathematics students. Antireq: AMATH 231, MATH 207, 217, 227, 237, 247"
+}

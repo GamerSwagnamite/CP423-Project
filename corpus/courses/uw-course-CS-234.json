@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-234",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "234",
+  "title": "Data Types and Structures",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 116, 136, 138, 146 or (CS 114 with at least 60%; CS 115 or CS 135). Not open to Honours Computer Science, Data Science (BCS, BMath), BCFM, BSE students. Antireq: BME 122, CS 240/240E, ECE 250, MSE 240, MTE 140, SYDE 223",
+  "text": "CS 234: Data Types and Structures\nDescription: Top-down design of data structures. Using representation-independent data types. Introduction to commonly used data types, including lists, sets, mappings, and trees. Selection of data representation.\nRequirements: Prereq: One of CS 116, 136, 138, 146 or (CS 114 with at least 60%; CS 115 or CS 135). Not open to Honours Computer Science, Data Science (BCS, BMath), BCFM, BSE students. Antireq: BME 122, CS 240/240E, ECE 250, MSE 240, MTE 140, SYDE 223"
+}

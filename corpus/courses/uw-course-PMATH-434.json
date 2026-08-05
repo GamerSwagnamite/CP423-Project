@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-434",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "434",
+  "title": "Set Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: PMATH 432",
+  "text": "PMATH 434: Set Theory\nDescription: ZFC axioms, well-orders, ordinals, regular and singular cardinals, the cumulative hierarchy, Boolean algebras, ultrafilters, club and stationary sets, measurable cardinals, the reflection principle, Gödel's constructible universe, ordinal definable sets.\nRequirements: Prereq: PMATH 432"
+}

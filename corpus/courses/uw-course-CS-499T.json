@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-499T",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "499T",
+  "title": "Honours Thesis",
+  "academic_career": "UG",
+  "requirements": "Prereq: Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only",
+  "text": "CS 499T: Honours Thesis\nDescription: The student will undertake new analysis, synthesis, measurement, or experimentation to produce a document that demonstrates a depth of understanding of a topic that goes beyond what is obtained in a standard undergraduate education.\nRequirements: Prereq: Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only"
+}

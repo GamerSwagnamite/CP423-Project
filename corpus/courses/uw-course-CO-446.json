@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-446",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "446",
+  "title": "Matroid Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: CO 342; Cumulative overall average of at least 80%",
+  "text": "CO 446: Matroid Theory\nDescription: This is an introductory course on matroid theory, with particular emphasis on graphic matroids and on topics that are applicable to graph theory. The topics include matroid intersection and partition, graphic matroids, matroid connectivity, regular matroids, and representable matroids. Applications include matching, disjoint paths, disjoint spanning trees, the 8-flow theorem for graphs, planarity testing, and recognizing totally unimodular matrices.\nRequirements: Prereq: CO 342; Cumulative overall average of at least 80%"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-432",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "432",
+  "title": "Credibility and Risk Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 363, STAT 330, STAT 333; Actuarial Science or Mathematical Finance students only",
+  "text": "ACTSC 432: Credibility and Risk Theory\nDescription: Credibility theory: American credibility, Bayesian, Bühlmann, Bühlmann-Straub, and empirical Bayes parameter estimation. Risk theory: claim arrival dynamics, surplus models, first-passage times, applications to solvency, and their analytical and numerical analyses.\nRequirements: Prereq: ACTSC 363, STAT 330, STAT 333; Actuarial Science or Mathematical Finance students only"
+}

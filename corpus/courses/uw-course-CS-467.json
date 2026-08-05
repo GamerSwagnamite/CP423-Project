@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-467",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "467",
+  "title": "Introduction to Quantum Information Processing",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245 with grade at least 80%; Level at least 3A",
+  "text": "CS 467: Introduction to Quantum Information Processing\nDescription: Basics of computational complexity; basics of quantum information; quantum phenomena; quantum circuits and universality; relationship between quantum and classical complexity classes; simple quantum algorithms; quantum Fourier transform; Shor factoring algorithm; Grover search algorithm; physical realization of quantum computation; error-correction and fault-tolerance; quantum key distribution.\nRequirements: Prereq: MATH 235 or 245 with grade at least 80%; Level at least 3A"
+}

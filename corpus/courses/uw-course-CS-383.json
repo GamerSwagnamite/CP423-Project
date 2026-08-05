@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-383",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "383",
+  "title": "Computational Digital Art Studio",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 240/CS 240E; FINE 228 or FINE 247",
+  "text": "CS 383: Computational Digital Art Studio\nDescription: An upper-level studio course to create computational projects that function as art works and aesthetic experiences. Students will work in an interdisciplinary environment to combine computer science principles with fine art technical and conceptual skills.\nRequirements: Prereq: CS 240/CS 240E; FINE 228 or FINE 247"
+}

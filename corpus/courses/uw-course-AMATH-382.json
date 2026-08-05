@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-382",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "382",
+  "title": "Computational Modelling of Cellular Systems",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of MATH 118, 119, 128, 138, 148; Level at least 3A Honours",
+  "text": "AMATH 382: Computational Modelling of Cellular Systems\nDescription: An introduction to dynamic mathematical modelling of cellular processes. The emphasis is on using computational tools to investigate differential equation-based models. A variety of cellular phenomena are discussed, including ion pumps, membrane potentials, intercellular communication, genetic networks, regulation of metabolic pathways, and signal transduction.\nRequirements: Prereq: One of MATH 118, 119, 128, 138, 148; Level at least 3A Honours"
+}

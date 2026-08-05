@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-438",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "438",
+  "title": "Advanced Methods in Biostatistics",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 431",
+  "text": "STAT 438: Advanced Methods in Biostatistics\nDescription: Causal inference methodologies including propensity score matching and inverse probability weighting. Methods for handling incomplete data and covariate measurement error; likelihood based on joint models, estimating functions.\nRequirements: Prereq: STAT 431"
+}

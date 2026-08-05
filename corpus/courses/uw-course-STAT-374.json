@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-374",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "374",
+  "title": "Quantitative Foundations for Finance",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 136, STAT 231 with a grade of 60% or STAT 241; Computing & Financial Management or Math/CPA students only. Antireq: STAT 321, 331, 371, 443, AFM 323/STAT 374",
+  "text": "STAT 374: Quantitative Foundations for Finance\nDescription: This course introduces analytical and statistical methods commonly used in finance, with applications to investment management and corporate finance.\nRequirements: Prereq: MATH 136, STAT 231 with a grade of 60% or STAT 241; Computing & Financial Management or Math/CPA students only. Antireq: STAT 321, 331, 371, 443, AFM 323/STAT 374"
+}

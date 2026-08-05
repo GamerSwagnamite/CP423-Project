@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-337",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "337",
+  "title": "Introduction to Biostatistics",
+  "academic_career": "UG",
+  "requirements": "Prereq: (STAT 221 with a grade of at least 60%) or STAT 231 or 241. Antireq: HLTH 333, STAT 232",
+  "text": "STAT 337: Introduction to Biostatistics\nDescription: This course will provide an introduction to statistical methods in health research. Topics to be covered include types of medical data, measures of disease prevalence and incidence, age and sex adjustment of disease rates, sensitivity and specificity of diagnostic tests, ROC curves, measures of association between risk factors and disease, major sources of medical data in the Canadian context including surveys, registries, and clinical studies such as cohort studies, clinical trials and case-control studies. Papers from the medical literature will be used throughout to illustrate the concepts. Introduction to SAS for data analysis and an introduction to database management tools.\nRequirements: Prereq: (STAT 221 with a grade of at least 60%) or STAT 231 or 241. Antireq: HLTH 333, STAT 232"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-440",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "440",
+  "title": "Topics in Graph Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: CO 342",
+  "text": "CO 440: Topics in Graph Theory\nDescription: An in-depth study of one or two topics in graph theory. Course content may vary from term to term. Topics may include planar graphs, extremal graph theory, directed graphs, enumeration, algebraic graph theory, probabilistic graph theory, connectivity, graph embedding, colouring problems.\nRequirements: Prereq: CO 342"
+}

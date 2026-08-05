@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-136L",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "136L",
+  "title": "Tools and Techniques for Software Development",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 145, at least 90% in CS 115, at least 70% in CS 116, at least 60% in CS 135. Coreq: CS 136 or CS 146",
+  "text": "CS 136L: Tools and Techniques for Software Development\nDescription: This course introduces students to tools and techniques useful in the software development lifecycle. Students learn to navigate and leverage commands and utilities in the Linux Command Line Shell. Students gain experience in version control software, writing scripts to automate tasks, and creating effective test cases to identify bugs. Tracing and debugging strategies are discussed. Students also gain experience in using built-in support for version control, testing, debugging, build automation, etc. in integrated development environments (IDEs).\nRequirements: Prereq: One of CS 145, at least 90% in CS 115, at least 70% in CS 116, at least 60% in CS 135. Coreq: CS 136 or CS 146"
+}

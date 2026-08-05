@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-431",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "431",
+  "title": "Casualty and Health Insurance Mathematics 2",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 363 with a grade of at least 60%; STAT 330; One of STAT 331, 371, 373. Actuarial Science or Mathematical Finance students only",
+  "text": "ACTSC 431: Casualty and Health Insurance Mathematics 2\nDescription: Aggregate loss and payment models: properties, analytic results, convolution-type methods, recursive methods, inversion-type methods, and simulation; advanced aggregate claims models; reinsurance; applications to insurance pricing; insurance pricing using generalized linear models.\nRequirements: Prereq: ACTSC 363 with a grade of at least 60%; STAT 330; One of STAT 331, 371, 373. Actuarial Science or Mathematical Finance students only"
+}

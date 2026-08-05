@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-335",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "335",
+  "title": "Computational Methods in Business and Finance",
+  "academic_career": "UG",
+  "requirements": "Prereq:(One of CS 116, 136, 138, 146)or(CS 114 with at least 60%; CS 115 or CS 135);One of MATH 106 with at least 70%, MATH 136 or 146;MATH 237 or 247;One of STAT 206, 231, 241;Not open to Computer Science students.Antireq:AMATH 242/CS 371,CS 370,MTE 204",
+  "text": "CS 335: Computational Methods in Business and Finance\nDescription: An introduction to numerical methods for business and finance. Floating-point arithmetic, interpolation. Methods for portfolio optimization and contingent-claims valuation. Solution of nonlinear equations. Monte Carlo methods, lattice methods, simulation of hedging strategies.\nRequirements: Prereq:(One of CS 116, 136, 138, 146)or(CS 114 with at least 60%; CS 115 or CS 135);One of MATH 106 with at least 70%, MATH 136 or 146;MATH 237 or 247;One of STAT 206, 231, 241;Not open to Computer Science students.Antireq:AMATH 242/CS 371,CS 370,MTE 204"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-145",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "145",
+  "title": "Algebra (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: 4U Calculus and Vectors or 4U Mathematics of Data Management; Honours Mathematics students only. Antireq: MATH 135",
+  "text": "MATH 145: Algebra (Advanced Level)\nDescription: MATH145 is an advanced-level version of MATH135.\nRequirements: Prereq: 4U Calculus and Vectors or 4U Mathematics of Data Management; Honours Mathematics students only. Antireq: MATH 135"
+}

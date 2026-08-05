@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-499R",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "499R",
+  "title": "Readings in Computer Science",
+  "academic_career": "UG",
+  "requirements": "Prereq: Level at least 3B; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only",
+  "text": "CS 499R: Readings in Computer Science\nDescription: Reading course as announced by the department.\nRequirements: Prereq: Level at least 3B; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only"
+}

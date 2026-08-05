@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-372",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "372",
+  "title": "Investment Science and Corporate Finance",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 231, MATH 235/245, MATH 237/247. Antireq: AFM 272/ACTSC 291, AFM 273, 274, AFM 275/AFM 372/ACTSC 391, BUS 393W, ECON 371, MATBUS 371",
+  "text": "ACTSC 372: Investment Science and Corporate Finance\nDescription: Introduction to financial markets. Different return and risk measures. Investment rules and capital budgeting. Rigorous derivations of Markowitz portfolio optimization and its application in investment decisions. Capital Asset Pricing Model (CAPM) and Arbitrage Pricing Theory (APT). Weighted average cost of capital (WACC) and efficient market hypothesis (EMH). Long-term financing, capital structure (MM propositions), and dividend policies. Introduction to options, forwards, and swaps.\nRequirements: Prereq: ACTSC 231, MATH 235/245, MATH 237/247. Antireq: AFM 272/ACTSC 291, AFM 273, 274, AFM 275/AFM 372/ACTSC 391, BUS 393W, ECON 371, MATBUS 371"
+}

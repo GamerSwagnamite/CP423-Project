@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-251",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "251",
+  "title": "Introduction to Differential Equations (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of MATH 106, 114, 115, 136, 146, NE 112) and (One of MATH 118, 119, 128, 138, 148). Antireq: AMATH 250, 350, MATH 218, 228",
+  "text": "AMATH 251: Introduction to Differential Equations (Advanced Level)\nDescription: AMATH 251 is an advanced-level version of AMATH 250. This course offers a more theoretical treatment of differential equations and solution methods. In addition, emphasis will be placed on computational analysis of differential equations and on applications in science and engineering.\nRequirements: Prereq: (One of MATH 106, 114, 115, 136, 146, NE 112) and (One of MATH 118, 119, 128, 138, 148). Antireq: AMATH 250, 350, MATH 218, 228"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-247",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "247",
+  "title": "Software Engineering Principles",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 241/CS 241E; Software Engineering students only. Antireq: CS 246/246E, MSE 342, SYDE 322",
+  "text": "CS 247: Software Engineering Principles\nDescription: Systematic methods for designing, coding, testing, and documenting medium-sized programs. Major topics include abstraction, modularity, software modelling, object-oriented programming and design, generic programming, testing and debugging.\nRequirements: Prereq: CS 241/CS 241E; Software Engineering students only. Antireq: CS 246/246E, MSE 342, SYDE 322"
+}

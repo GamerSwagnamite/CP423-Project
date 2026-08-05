@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-249",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "249",
+  "title": "Introduction to Combinatorics (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: (MATH 135 with minimum grade of 80% or MATH 145) and (MATH 136 or 146); Honours Mathematics students only. Antireq: CO 220, MATH 229, 239",
+  "text": "MATH 249: Introduction to Combinatorics (Advanced Level)\nDescription: MATH249 is an advanced-level version of MATH239.\nRequirements: Prereq: (MATH 135 with minimum grade of 80% or MATH 145) and (MATH 136 or 146); Honours Mathematics students only. Antireq: CO 220, MATH 229, 239"
+}

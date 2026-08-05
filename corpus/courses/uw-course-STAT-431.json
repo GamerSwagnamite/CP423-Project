@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-431",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "431",
+  "title": "Generalized Linear Models and their Applications",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 330, (331 or 371)",
+  "text": "STAT 431: Generalized Linear Models and their Applications\nDescription: Review of the normal linear model and maximum likelihood estimation; regression models for binomial, Poisson and multinomial data; generalized linear models; and other topics in regression modelling.\nRequirements: Prereq: STAT 330, (331 or 371)"
+}

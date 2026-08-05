@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-482",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "482",
+  "title": "Computational Techniques in Biological Sequence Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 341 and (STAT 206 with at least 70% or STAT 231 with at least 60% or STAT 241)",
+  "text": "CS 482: Computational Techniques in Biological Sequence Analysis\nDescription: Computer science principles and algorithms in biological sequence analysis.  Topics include algorithms for sequence comparison, for large-scale database search in biological databases, for sequence assembly, for evolutionary tree reconstruction, for identifying important features in DNA and RNA sequences, and underlying computational techniques for understanding strings and trees and for making probabilistic inferences.\nRequirements: Prereq: CS 341 and (STAT 206 with at least 70% or STAT 231 with at least 60% or STAT 241)"
+}

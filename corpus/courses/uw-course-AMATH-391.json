@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-391",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "391",
+  "title": "From Fourier to Wavelets",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of AMATH 231, ECE 342, PHYS 364, SYDE 252) and (One of MATH 114, 115, 136, 146, SYDE 114)",
+  "text": "AMATH 391: From Fourier to Wavelets\nDescription: An introduction to contemporary mathematical concepts in signal analysis. Fourier series and Fourier transforms (FFT), the classical sampling theorem and the time-frequency uncertainty principle. Wavelets and multiresolution analysis. Applications include oversampling, denoising of audio, data compression, and singularity detection.\nRequirements: Prereq: (One of AMATH 231, ECE 342, PHYS 364, SYDE 252) and (One of MATH 114, 115, 136, 146, SYDE 114)"
+}

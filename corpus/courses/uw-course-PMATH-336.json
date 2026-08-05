@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-336",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "336",
+  "title": "Introduction to Group Theory with Applications",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245. Antireq: PMATH 347",
+  "text": "PMATH 336: Introduction to Group Theory with Applications\nDescription: Groups, permutation groups, subgroups, homomorphisms, symmetry groups in two and three dimensions, direct products, Polya-Burnside enumeration.\nRequirements: Prereq: MATH 235 or 245. Antireq: PMATH 347"
+}

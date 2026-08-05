@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-450",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "450",
+  "title": "Computer Architecture",
+  "academic_career": "UG",
+  "requirements": "Prereq: (CS 245/245E or SE 212) and (CS 350 or SE 350); Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: ECE 320, ECE 429",
+  "text": "CS 450: Computer Architecture\nDescription: The course is intended to provide the student with an appreciation of modern computer design and its relation to system architecture, compiler technology, and operating system functionality. The course places an emphasis on design based on the measurement of performance and its dependency on parallelism, efficiency, latency, and resource utilization.\nRequirements: Prereq: (CS 245/245E or SE 212) and (CS 350 or SE 350); Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: ECE 320, ECE 429"
+}
