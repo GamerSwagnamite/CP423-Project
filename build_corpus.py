@@ -10,6 +10,7 @@
 # ----------------------------------------------------------------
 import json
 import os
+import re
 import time
 from pathlib import Path
 import requests
@@ -37,6 +38,17 @@ TERM_CODES = [
 
 # which academic career(s) to keep. the API mixes undergrad and grad courses.
 ACADEMIC_CAREERS_TO_KEEP = {"UG"}  # add "GRD" here too if you want grad courses
+
+# stub/placeholder descriptions provide nothing for retrieval to find, and
+# can quietly hurt precision by embedding ambiguously close to real content.
+# filtered out alongside empty descriptions below.
+MIN_DESCRIPTION_WORDS = 8
+STUB_PATTERNS = [
+    r"refer to .* calendar",
+    r"see .* calendar",
+    r"taught at .*university",
+    r"cross[- ]listed",
+]
 
 OUTPUT_DIR = Path(os.path.dirname(os.path.abspath(__file__))) / "corpus" / "courses"
 REQUEST_DELAY_SECONDS = 1.5   # be polite / stay under the per-minute rate limit
@@ -87,6 +99,21 @@ def merge_course_records(existing: dict, new: dict) -> dict:
     return existing
 
 
+def is_stub_description(description: str) -> bool:
+    """Flag near-empty or placeholder descriptions (e.g. cross-listed courses
+    that just point to another institution's calendar) that give retrieval
+    nothing real to find."""
+    if len(description.split()) < MIN_DESCRIPTION_WORDS:
+        return True
+
+    lowered = description.lower()
+    for pattern in STUB_PATTERNS:
+        if re.search(pattern, lowered):
+            return True
+
+    return False
+
+
 def build_document(course: dict) -> dict | None:
     subject = course.get("subjectCode", "")
     catalog_number = course.get("catalogNumber", "")
@@ -98,6 +125,9 @@ def build_document(course: dict) -> dict | None:
 
     if not description:
         return None  # nothing for retrieval to find
+
+    if is_stub_description(description):
+        return None  # placeholder/cross-listing stub, not real content
 
     text_parts = [
         f"{subject} {catalog_number}: {title}",
@@ -165,12 +195,21 @@ def main():
             time.sleep(REQUEST_DELAY_SECONDS)
 
         no_description_count = 0
+        stub_count = 0
         saved = 0
         for course in merged.values():
-            doc = build_document(course)
-            if doc is None:
+            description = (course.get("description") or "").strip()
+            if not description:
                 no_description_count += 1
                 continue
+            if is_stub_description(description):
+                stub_count += 1
+                continue
+
+            doc = build_document(course)
+            if doc is None:
+                continue
+
             out_path = OUTPUT_DIR / f"{doc['doc_id']}.json"
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(doc, f, indent=2, ensure_ascii=False)
@@ -178,7 +217,8 @@ def main():
 
         print(f"  -> {saved} documents saved for {subject} "
               f"({len(merged)} unique courses after career filter, "
-              f"{no_description_count} dropped for missing description)")
+              f"{no_description_count} dropped for missing description, "
+              f"{stub_count} dropped as stub/placeholder descriptions)")
 
     all_docs = list(OUTPUT_DIR.glob("*.json"))
     print(f"\nDone. Total documents in corpus: {len(all_docs)}")

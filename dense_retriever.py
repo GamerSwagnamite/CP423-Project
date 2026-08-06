@@ -90,7 +90,7 @@ def main():
 
     retriever = DenseRetriever(documents)
 
-    demo_query = "What is the prerequisite for STAT 442?"
+    demo_query = "What course teaches interactive methods for visually exploring high-dimensional data?"
     print(f"\nDemo query: {demo_query!r}")
     results = retriever.search(demo_query, top_k=5)
 
