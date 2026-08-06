@@ -17,7 +17,7 @@ import requests
 # ----------------------------------------------------------------
 # Constants
 # ----------------------------------------------------------------
-API_KEY = os.environ.get("UWATERLOO_API_KEY", "PASTE_YOUR_KEY_HERE")
+API_KEY = os.environ.get("UWATERLOO_API_KEY", "68273326D21A47EB95F8B0703F7485A8")
 BASE_URL = "https://openapi.data.uwaterloo.ca/v3"
 COURSES_BY_SUBJECT_PATH = "/Courses/{term_code}/{subject}"
 

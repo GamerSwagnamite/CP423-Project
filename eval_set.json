@@ -1,0 +1,72 @@
+[
+  {
+    "id": "e1",
+    "type": "factoid",
+    "question": "What is the antirequisite course for CS 431 (Data-Intensive Distributed Analytics)?",
+    "reference_answer": "CS 451",
+    "source_doc_ids": ["uw-course-CS-431"]
+  },
+  {
+    "id": "e2",
+    "type": "factoid",
+    "question": "Which introductory-level courses can serve as a prerequisite for CO 227 (Introduction to Optimization, Non-Specialist Level)?",
+    "reference_answer": "One of MATH 106, 114, 115, 136, or 146",
+    "source_doc_ids": ["uw-course-CO-227"]
+  },
+  {
+    "id": "e3",
+    "type": "factoid",
+    "question": "Which two estimators for survival functions are mentioned in the ACTSC 454 course description?",
+    "reference_answer": "The Kaplan-Meier and Nelson-Aalen estimators",
+    "source_doc_ids": ["uw-course-ACTSC-454"]
+  },
+  {
+    "id": "e4",
+    "type": "factoid",
+    "question": "What is the corequisite for CS 136 (Elementary Algorithm Design and Data Abstraction)?",
+    "reference_answer": "CS 136L",
+    "source_doc_ids": ["uw-course-CS-136"]
+  },
+  {
+    "id": "e5",
+    "type": "factoid",
+    "question": "What is the prerequisite for PMATH 331 (Applied Real Analysis)?",
+    "reference_answer": "MATH 237 or MATH 247",
+    "source_doc_ids": ["uw-course-PMATH-331"]
+  },
+  {
+    "id": "e6",
+    "type": "factoid",
+    "question": "Which student population is MATH 247 (Calculus 3, Advanced Level) restricted to?",
+    "reference_answer": "Honours Mathematics students only",
+    "source_doc_ids": ["uw-course-MATH-247"]
+  },
+  {
+    "id": "e7",
+    "type": "multi_hop",
+    "question": "AMATH 331 and PMATH 331 are both titled 'Applied Real Analysis' with identical course descriptions. Do they have the same antirequisites?",
+    "reference_answer": "No. AMATH 331 lists PMATH 333 and PMATH 351 as antirequisites, while PMATH 331 lists no antirequisites at all, despite the two courses sharing an identical title and description.",
+    "source_doc_ids": ["uw-course-AMATH-331", "uw-course-PMATH-331"]
+  },
+  {
+    "id": "e8",
+    "type": "multi_hop",
+    "question": "Are CS 251E and CS 348 restricted to the same set of academic programs?",
+    "reference_answer": "Yes. Both CS 251E and CS 348 restrict enrollment to Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, and BSE students only.",
+    "source_doc_ids": ["uw-course-CS-251E", "uw-course-CS-348"]
+  },
+  {
+    "id": "e9",
+    "type": "unanswerable",
+    "question": "Who is the instructor teaching STAT 442 in the Fall 2025 term?",
+    "reference_answer": "I don't know -- the corpus contains course descriptions, prerequisites, and units, but no instructor or scheduling information.",
+    "source_doc_ids": []
+  },
+  {
+    "id": "e10",
+    "type": "unanswerable",
+    "question": "What is the tuition cost for a 0.5-unit course in the Faculty of Mathematics?",
+    "reference_answer": "I don't know -- the corpus does not contain any tuition or fee information.",
+    "source_doc_ids": []
+  }
+]

@@ -112,9 +112,9 @@ def main():
 
     retriever = DenseRetriever(documents)
 
-    demo_query = "What is the prerequisite for STAT 442?"
+    demo_query = "interactive methods for visually exploring high-dimensional data"
     print(f"\nDemo query: {demo_query!r}")
-    results = retriever.search(demo_query, top_k=5)
+    results = retriever.search(demo_query, top_k=40)
 
     for rank, r in enumerate(results, start=1):
         print(f"\n{rank}. [{r['doc_id']}] score={r['score']:.3f}")
