@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-332",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "332",
+  "title": "Applied Complex Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 237 or 247. Antireq: PHYS 365, PMATH 352",
+  "text": "AMATH 332: Applied Complex Analysis\nDescription: Complex numbers, Cauchy-Riemann equations, analytic functions, conformal maps and applications to the solution of Laplace's equation, contour integrals, Cauchy integral formula, Taylor and Laurent expansions, residue calculus and applications.\nRequirements: Prereq: MATH 237 or 247. Antireq: PHYS 365, PMATH 352"
+}

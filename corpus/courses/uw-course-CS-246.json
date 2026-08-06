@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-246",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "246",
+  "title": "Object-Oriented Software Development",
+  "academic_career": "UG",
+  "requirements": "Prereq: (CS 146 and CS 136L) or (a grade of 60% or higher in CS 138) or (CS 136L and a grade of 60% or higher in CS 136); Honours Mathematics students only. Antireq: CS 246E, CS  247, MSE 342, SYDE 322",
+  "text": "CS 246: Object-Oriented Software Development\nDescription: Introduction to object-oriented programming and to tools and techniques for software development. Designing, coding, debugging, testing, and documenting medium-sized programs: reading specifications and designing software to implement them; selecting appropriate data structures and control structures; writing reusable code; reusing existing code; basic performance issues; debuggers; test suites.\nRequirements: Prereq: (CS 146 and CS 136L) or (a grade of 60% or higher in CS 138) or (CS 136L and a grade of 60% or higher in CS 136); Honours Mathematics students only. Antireq: CS 246E, CS  247, MSE 342, SYDE 322"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-331",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "331",
+  "title": "Applied Linear Models",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245, (STAT 231 with a grade of at least 60%) or STAT 241 or (SYDE 212 with a grade of at least 70%). Antireq: ECON 421, STAT 321, 371, 373,AFM 323/STAT 374, SYDE 334",
+  "text": "STAT 331: Applied Linear Models\nDescription: Modelling the relationship between a response variable and several explanatory variables (an output-input system) via regression models. Least squares algorithm for estimation of parameters. Hypothesis testing and prediction. Model diagnostics and improvement. Algorithms for variable selection. Nonlinear regression and other methods.\nRequirements: Prereq: MATH 235 or 245, (STAT 231 with a grade of at least 60%) or STAT 241 or (SYDE 212 with a grade of at least 70%). Antireq: ECON 421, STAT 321, 371, 373,AFM 323/STAT 374, SYDE 334"
+}

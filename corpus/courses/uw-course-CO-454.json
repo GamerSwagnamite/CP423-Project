@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-454",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "454",
+  "title": "Scheduling",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 229 or 239 or 249 and (one of CO 227, 250, 255, 352)",
+  "text": "CO 454: Scheduling\nDescription: An overview of practical optimization problems that can be posed as scheduling problems. Characterizations of optimal schedules. Simple and efficient combinatorial algorithms for easy problems. A brief overview of computational complexity, definition of P, NP, NP-complete and NP-hard. Integer programming formulations, the travelling salesman problem, heuristics, dynamic programming, and branch-and-bound approaches. Polynomial-time approximation algorithms.\nRequirements: Prereq: MATH 229 or 239 or 249 and (one of CO 227, 250, 255, 352)"
+}

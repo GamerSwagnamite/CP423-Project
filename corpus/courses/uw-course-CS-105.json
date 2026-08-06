@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-105",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "105",
+  "title": "Introduction to Computer Programming 1",
+  "academic_career": "UG",
+  "requirements": "Prereq: Not open to Mathematics students. Antireq: BME 121, CS 115, 135, 137, 145, CHE 121, CIVE 121, ECE 150, MTE 121/GENE 121, NE 111, MSE 121, PHYS 236, SYDE 121",
+  "text": "CS 105: Introduction to Computer Programming 1\nDescription: An introduction to the fundamentals of computer programming through media computation. Students will learn to write interactive graphical programs. Fundamental language concepts such as variables, conditionals, loops, functions, and arrays. Programming concepts such as coding style, modular design, testing, and debugging. Media concepts such as 2D graphics drawing, input, animation, and image processing.\nRequirements: Prereq: Not open to Mathematics students. Antireq: BME 121, CS 115, 135, 137, 145, CHE 121, CIVE 121, ECE 150, MTE 121/GENE 121, NE 111, MSE 121, PHYS 236, SYDE 121"
+}

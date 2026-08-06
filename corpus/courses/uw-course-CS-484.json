@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-484",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "484",
+  "title": "Computational Vision",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of AMATH 242/CS 371, CS 370, MATH 235, MATH 245) and (One of STAT 206, STAT 230 or 240); Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only",
+  "text": "CS 484: Computational Vision\nDescription: Introduction to image and vision understanding by computer. Camera-system geometry, image formation and lighting, and image acquisition. Basic visual processes for recognition of edges, regions, lines, and surfaces. Processing of stereo images, and motion in image sequences. Object recognition. Applications of computer-vision systems.\nRequirements: Prereq: (One of AMATH 242/CS 371, CS 370, MATH 235, MATH 245) and (One of STAT 206, STAT 230 or 240); Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only"
+}

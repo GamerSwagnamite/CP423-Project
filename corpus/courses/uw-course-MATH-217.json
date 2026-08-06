@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-217",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "217",
+  "title": "Calculus 3 for Chemical Engineering",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 118; Not open to Mathematics students. Antireq: AMATH 231, CIVE 221, ENVE 221, MATH 207, 212/ECE 206, 227, 237, 247, MATH 212N/NE 217, ME 201",
+  "text": "MATH 217: Calculus 3 for Chemical Engineering\nDescription: Curves and surfaces in R3. Multivariable functions, partial derivatives, the chain rule, gradients. Optimization, Lagrange Multipliers. Double and triple integrals, change of variable. Vector fields, divergence and curl. Vector integral calculus: Green's theorem, the Divergence theorem and Stokes' theorem. Applications in engineering are emphasized.\nRequirements: Prereq: MATH 118; Not open to Mathematics students. Antireq: AMATH 231, CIVE 221, ENVE 221, MATH 207, 212/ECE 206, 227, 237, 247, MATH 212N/NE 217, ME 201"
+}

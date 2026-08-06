@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-444",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "444",
+  "title": "Statistical Learning - Advanced Regression",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 341; STAT 331 or 371",
+  "text": "STAT 444: Statistical Learning - Advanced Regression\nDescription: This course introduces modern applied regression methods for continuous response modelling, emphasizing both explainability and predictive power. Topics cover a wide selection of advanced methods useful to address the challenges arising from real-world and high-dimensional data; methods include robust regression, nonparametric regression such as smoothing splines, kernels, additive models, tree-based methods, boosting and bagging, and penalized linear regression methods such as the ridge regression, lasso, and their variants. Students will gain an appreciation of the mathematical and statistical concepts underlying the methods and also computational experience in applying the methods to real data.\nRequirements: Prereq: STAT 341; STAT 331 or 371"
+}

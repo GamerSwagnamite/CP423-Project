@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-477",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "477",
+  "title": "Stochastic Processes for Applied Mathematics",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of AMATH 250, 251, 350, MATH 211/ECE 205, MATH 218, 228), STAT 230 or 240",
+  "text": "AMATH 477: Stochastic Processes for Applied Mathematics\nDescription: Random variables, expectations, conditional probabilities, conditional expectations, convergence of a sequence of random variables, limit theorems, minimum mean square error estimation, the orthogonality principle, random process, discrete-time and continuous-time Markov chains and applications, forward and backward equation, invariant distribution, Gaussian process and Brownian motion, expectation maximization algorithm, linear discrete stochastic equations, linear innovation sequences, Kalman filter, various applications.\nRequirements: Prereq: (One of AMATH 250, 251, 350, MATH 211/ECE 205, MATH 218, 228), STAT 230 or 240"
+}

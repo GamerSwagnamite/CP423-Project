@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-138",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "138",
+  "title": "Introduction to Data Abstraction and Implementation",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 137",
+  "text": "CS 138: Introduction to Data Abstraction and Implementation\nDescription: Software abstractions via elementary data structures and their implementation; encapsulation and modularity; class and interface definitions; object instantiation; recursion; elementary abstract data types, including sequences, stacks, queues, and trees; implementation using linked structures and arrays; vectors and strings; memory models; automatic vs. dynamic memory management.\nRequirements: Prereq: CS 137"
+}

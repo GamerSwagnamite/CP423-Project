@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-255",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "255",
+  "title": "Introduction to Optimization (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245, 237 or 247. Antireq: CO 227, 250, 352",
+  "text": "CO 255: Introduction to Optimization (Advanced Level)\nDescription: Linear optimization: feasibility theorems, duality, the simplex algorithm. Discrete optimization: integer linear programming, cutting planes, network flows. Continuous optimization: local and global optima, feasible directions, convexity, necessary optimality conditions.\nRequirements: Prereq: MATH 235 or 245, 237 or 247. Antireq: CO 227, 250, 352"
+}

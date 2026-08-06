@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-231",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "231",
+  "title": "Introductory Financial Mathematics",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 137 or 147 and (STAT 220 with a grade of at least 70% or a corequisite of STAT 230 or 240); Level at least 2A; Not open to students who have received credit for ACTSC 232. Antireq: ACTSC 221",
+  "text": "ACTSC 231: Introductory Financial Mathematics\nDescription: The theory of rates of interest and discount including the theoretical continuous case of forces of interest and discount. Annuities and sinking funds, including the continuous case. Practical and theoretical applications primarily to mortgages and bonds. Yield rates.\nRequirements: Prereq: MATH 137 or 147 and (STAT 220 with a grade of at least 70% or a corequisite of STAT 230 or 240); Level at least 2A; Not open to students who have received credit for ACTSC 232. Antireq: ACTSC 221"
+}

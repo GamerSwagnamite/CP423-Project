@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-475",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "475",
+  "title": "Introduction to General Relativity",
+  "academic_career": "UG",
+  "requirements": "Prereq: (AMATH 231 or MATH 227) and (AMATH 271 or PHYS 263); Level at least 4A Honours Mathematics or Science students",
+  "text": "AMATH 475: Introduction to General Relativity\nDescription: Tensor analysis. Curved space-time and the Einstein field equations. The Schwarzschild solution and applications. The Friedmann-Robertson-Walker cosmological models.\nRequirements: Prereq: (AMATH 231 or MATH 227) and (AMATH 271 or PHYS 263); Level at least 4A Honours Mathematics or Science students"
+}

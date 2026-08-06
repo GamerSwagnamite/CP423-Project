@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-138",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "138",
+  "title": "Calculus 2 for Honours Mathematics",
+  "academic_career": "UG",
+  "requirements": "Prereq: (MATH 116 or 117 or 127 with a grade of at least 70%) or MATH 137 with a grade of at least 60% or MATH 147. Antireq: MATH 118, 119, 128, 148",
+  "text": "MATH 138: Calculus 2 for Honours Mathematics\nDescription: Introduction to the Riemann integral and approximations. Antiderivatives and the fundamental theorem of calculus. Change of variables, methods of integration. Applications of the integral. Improper integrals. Linear and separable differential equations and applications. Tests for convergence for series. Binomial series, functions defined as power series and Taylor series. Vector (parametric) curves in R2. Suitable topics are illustrated using computer software.\nRequirements: Prereq: (MATH 116 or 117 or 127 with a grade of at least 70%) or MATH 137 with a grade of at least 60% or MATH 147. Antireq: MATH 118, 119, 128, 148"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-430",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "430",
+  "title": "Experimental Design",
+  "academic_career": "UG",
+  "requirements": "Prereq: (STAT 331 or 371) and (STAT 332 or 372). Antireq: (for Arts and Environmental Studies students) BIOL 461, PSYCH 391",
+  "text": "STAT 430: Experimental Design\nDescription: Review of experimental designs in a regression setting; analysis of variance; replication, balance, blocking, randomization, and interaction; one-way layout, two-way layout, and Latin square as special cases; factorial structure of treatments; covariates; treatment contrasts; two-level fractional factorial designs; fixed versus random effects; split-plot and repeated-measures designs; other topics.\nRequirements: Prereq: (STAT 331 or 371) and (STAT 332 or 372). Antireq: (for Arts and Environmental Studies students) BIOL 461, PSYCH 391"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-440",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "440",
+  "title": "Analytic Number Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: PMATH 352",
+  "text": "PMATH 440: Analytic Number Theory\nDescription: Summation methods, analytic theory of the Riemann zeta function, Prime Number Theorem, primitive roots. Dirichlet characters and infinitude of primes in arithmetic progressions, and assorted topics.\nRequirements: Prereq: PMATH 352"
+}

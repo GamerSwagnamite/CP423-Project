@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-116",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "116",
+  "title": "Introduction to Computer Science 2",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 115 or 135 or 145. Antireq: CS 114, 136, 137, 138, 146, PHYS 236, 239, MSE 240, NE 111",
+  "text": "CS 116: Introduction to Computer Science 2\nDescription: This course builds on the techniques and patterns learned in CS115 while making the transition to use of an imperative language. Generative and structural recursion. Mutation (assignment) and its role in an imperative language. Primitive types and basic I/O. Sequencing, selection, looping. Function definition and use. File and console I/O. Issues in computer science.\nRequirements: Prereq: CS 115 or 135 or 145. Antireq: CS 114, 136, 137, 138, 146, PHYS 236, 239, MSE 240, NE 111"
+}

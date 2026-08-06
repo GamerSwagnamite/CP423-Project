@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-456",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "456",
+  "title": "Computer Networks",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 350 or SE 350; Computer Science students only. Antireq: CS 436, ECE 358, 428",
+  "text": "CS 456: Computer Networks\nDescription: An introduction to network architectures and protocols, placing emphasis on protocols used in the Internet. Specific topics include application layer protocols, network programming, transport protocols, routing, multicast, data link layer issues, multimedia networking, network security, and network management.\nRequirements: Prereq: CS 350 or SE 350; Computer Science students only. Antireq: CS 436, ECE 358, 428"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-340",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "340",
+  "title": "Stochastic Simulation Methods",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of CS 116, 136, 138, 145, SYDE 221/322) and (STAT 230 with a grade of at least 60% or STAT 240) and (STAT 231 or 241)",
+  "text": "STAT 340: Stochastic Simulation Methods\nDescription: Random variate generation in the univariate and multivariate case, Monte Carlo integration, advanced computer implementation, variance reduction, statistical analysis of simulated data, extensions to challenging simulation problems. Mathematical treatment of the underlying stochastic concepts and proofs.\nRequirements: Prereq: (One of CS 116, 136, 138, 145, SYDE 221/322) and (STAT 230 with a grade of at least 60% or STAT 240) and (STAT 231 or 241)"
+}

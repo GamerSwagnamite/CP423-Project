@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-343",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "343",
+  "title": "Concurrent and Parallel Programming",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only",
+  "text": "CS 343: Concurrent and Parallel Programming\nDescription: An introduction to concurrent and parallel programming, with an emphasis on language constructs. Major topics include exceptions, coroutines, atomic operations, critical sections, mutual exclusion, semaphores, high-level concurrency, deadlock, interprocess communication, process structuring, shared memory, and distributed architectures. Students will learn how to structure, implement, and debug concurrent programs.\nRequirements: Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only"
+}

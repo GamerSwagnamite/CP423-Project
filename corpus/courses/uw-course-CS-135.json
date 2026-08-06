@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-135",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "135",
+  "title": "Designing Functional Programs",
+  "academic_career": "UG",
+  "requirements": "Antireq: AE 121, BME 121, CS 115, 137, 138, 145, CIVE 121, ECE 150, ME 101, MSE 121, PHYS 236, SYDE 121",
+  "text": "CS 135: Designing Functional Programs\nDescription: An introduction to the fundamentals of computer science through the application of elementary programming patterns in the functional style of programming. Syntax and semantics of a functional programming language. Tracing via substitution. Design, testing, and documentation. Linear and nonlinear data structures. Recursive data definitions. Abstraction and encapsulation. Generative and structural recursion. Historical context.\nRequirements: Antireq: AE 121, BME 121, CS 115, 137, 138, 145, CIVE 121, ECE 150, ME 101, MSE 121, PHYS 236, SYDE 121"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-433",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "433",
+  "title": "Model Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: PMATH 432",
+  "text": "PMATH 433: Model Theory\nDescription: Definable sets, quantifier elimination, algebraically closed fields, real closed fields, omitting types and prime models, interpretation and imaginaries, types, saturation, strongly minimal sets and the Zilber trichotomy, forking, and independence.\nRequirements: Prereq: PMATH 432"
+}

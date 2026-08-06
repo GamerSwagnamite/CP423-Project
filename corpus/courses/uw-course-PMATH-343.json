@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-343",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "343",
+  "title": "Introduction to the Mathematics of Quantum Information",
+  "academic_career": "UG",
+  "requirements": "Prereq: (MATH 235 or 245) and One of AMATH/PMATH 331, MATH 247, PMATH 333, PMATH 351. Antireq: PMATH 399 taken Winter 2019",
+  "text": "PMATH 343: Introduction to the Mathematics of Quantum Information\nDescription: Finite dimensional normed vector spaces and inner product spaces. Positive and normal operators, the spectral theorem, and singular value decomposition. Tensor products, finite dimensional C* algebras, and the GNS representation. Completely positive maps, Stinespring's theorem, the Choi-Jamiolkowski isomorphism, and the Choi-Krauss representation. Entanglement and the Bell and Tsirelson inequalities. Vector states and density matrices, quantum channels, observables, and quantum measurement.\nRequirements: Prereq: (MATH 235 or 245) and One of AMATH/PMATH 331, MATH 247, PMATH 333, PMATH 351. Antireq: PMATH 399 taken Winter 2019"
+}

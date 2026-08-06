@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-451",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "451",
+  "title": "Measure and Integration",
+  "academic_career": "UG",
+  "requirements": "Prereq: PMATH 450 with a grade of at least 60%",
+  "text": "PMATH 451: Measure and Integration\nDescription: General measures, measurability, Caratheodory Extension theorem and construction of measures, integration theory, convergence theorems, Lp-spaces, absolute continuity, differentiation of monotone functions, Radon-Nikodym theorem, product measures, Fubini's theorem, signed measures, Urysohn's lemma, Riesz Representation theorems for classical Banach spaces.\nRequirements: Prereq: PMATH 450 with a grade of at least 60%"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-453",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "453",
+  "title": "Software and Systems Security",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only",
+  "text": "CS 453: Software and Systems Security\nDescription: Introduction to security issues in modern software, operating systems, and other computing platforms (e.g., mobile and cloud environments). Causes of security breaches and methods to help detect, isolate, and prevent them. Specific topics include comparing security and privacy, program security, operating system security, mobile security, hardware security, administrating security, and legal and ethical issues.\nRequirements: Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only"
+}

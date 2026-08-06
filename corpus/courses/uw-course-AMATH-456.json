@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-456",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "456",
+  "title": "Calculus of Variations",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 237 or 247 and (One of AMATH 250 or 251, MATH 211/ECE 205, MATH 218, 228); Level at least 3B",
+  "text": "AMATH 456: Calculus of Variations\nDescription: Concept of functional and its variations. The solution of problems using variational methods - the Euler-Lagrange equations. Applications include an introduction to Hamilton's principle and optimal control.\nRequirements: Prereq: MATH 237 or 247 and (One of AMATH 250 or 251, MATH 211/ECE 205, MATH 218, 228); Level at least 3B"
+}

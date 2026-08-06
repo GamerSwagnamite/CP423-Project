@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-485",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "485",
+  "title": "Statistical and Computational Foundations of Machine Learning",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 341 and (STAT 206 or 230 or 240); Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only",
+  "text": "CS 485: Statistical and Computational Foundations of Machine Learning\nDescription: Extracting meaningful patterns from random samples of large data sets. Statistical analysis of the resulting problems. Common algorithmic paradigms for such tasks. Central concepts: VC-dimension, margins of a classifier, sparsity and description length, other types of regularization. Performance guarantees: generalization bounds, data dependent error bounds, and computational complexity of learning algorithms. Common paradigms: neural networks, kernel methods and support-vector machines, boosting, nearest neighbor classifiers. Applications to data mining.\nRequirements: Prereq: CS 341 and (STAT 206 or 230 or 240); Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only"
+}

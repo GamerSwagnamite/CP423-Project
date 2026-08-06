@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-453",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "453",
+  "title": "Basic Pension Mathematics",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 331; Actuarial Science or Mathematical Finance students only",
+  "text": "ACTSC 453: Basic Pension Mathematics\nDescription: Theory and practice of pension plan funding. Assumptions, basic actuarial functions, and population theory applied to private pensions. Concepts of normal costs, supplemental liability, unfunded liability arising from individual accrued benefit, and projected benefit cost methods.\nRequirements: Prereq: ACTSC 331; Actuarial Science or Mathematical Finance students only"
+}

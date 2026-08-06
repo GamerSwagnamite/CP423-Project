@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-114",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "114",
+  "title": "Linear Algebra for Science",
+  "academic_career": "UG",
+  "requirements": "Prereq: 4U Calculus and Vectors; Science or Geomatics students only. Antireq: MATH 106, 115, 136, 146, NE 112",
+  "text": "MATH 114: Linear Algebra for Science\nDescription: Vectors in 2- and 3-space and their geometry. Linear equations, matrices, and determinants. Introduction to vector spaces. Eigenvalues and diagonalization. Applications. Complex numbers.\nRequirements: Prereq: 4U Calculus and Vectors; Science or Geomatics students only. Antireq: MATH 106, 115, 136, 146, NE 112"
+}

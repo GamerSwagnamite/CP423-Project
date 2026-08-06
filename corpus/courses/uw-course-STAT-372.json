@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-372",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "372",
+  "title": "Survey Sampling and Experimental Design Techniques for Business",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 231 with a grade of at least 60% or STAT 241; Business/Math Double Degree, Math/Business, Math/FARM, Math/ITM or Mathematical Optimization - Business Specialization students only. Antireq: STAT 322, 332",
+  "text": "STAT 372: Survey Sampling and Experimental Design Techniques for Business\nDescription: Design and analysis of surveys. Management of sample and non-sample error. Simple random sampling and stratified random sampling. Additional topics in survey sampling. Observational and experimental studies. Principles for the design of experiments. Analysis of variance, factorial experiments, and interaction. Application to problems in business.\nRequirements: Prereq: STAT 231 with a grade of at least 60% or STAT 241; Business/Math Double Degree, Math/Business, Math/FARM, Math/ITM or Mathematical Optimization - Business Specialization students only. Antireq: STAT 322, 332"
+}

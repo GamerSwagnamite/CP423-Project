@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-240",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "240",
+  "title": "Probability (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: ((MATH 137 or 147) with a grade of at least 80%) or (MATH 138 or 148); Honours Mathematics students only. Antireq: STAT 220, 230",
+  "text": "STAT 240: Probability (Advanced Level)\nDescription: STAT240 is an advanced-level enriched version of STAT230.\nRequirements: Prereq: ((MATH 137 or 147) with a grade of at least 80%) or (MATH 138 or 148); Honours Mathematics students only. Antireq: STAT 220, 230"
+}

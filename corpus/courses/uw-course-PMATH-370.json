@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-370",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "370",
+  "title": "Chaos and Fractals",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of MATH 118, 119, 128, 138, 148) and (One of MATH 114, 115, 136, 146, 225)",
+  "text": "PMATH 370: Chaos and Fractals\nDescription: The mathematics of iterated functions, properties of discrete dynamical systems, Mandelbrot and Julia sets.\nRequirements: Prereq: (One of MATH 118, 119, 128, 138, 148) and (One of MATH 114, 115, 136, 146, 225)"
+}

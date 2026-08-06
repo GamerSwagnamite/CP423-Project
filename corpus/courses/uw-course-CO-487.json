@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-487",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "487",
+  "title": "Applied Cryptography",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 116, 136, 138, 146; MATH 135 or 145; One of STAT 206, 220, 230, 240; Level at least 3A",
+  "text": "CO 487: Applied Cryptography\nDescription: A broad introduction to modern cryptography, highlighting the tools and techniques used to secure internet and messaging applications. Symmetric-key encryption, hash functions, message authentication, authenticated encryption, public-key encryption and digital signatures, key establishment, key management.\nRequirements: Prereq: One of CS 116, 136, 138, 146; MATH 135 or 145; One of STAT 206, 220, 230, 240; Level at least 3A"
+}

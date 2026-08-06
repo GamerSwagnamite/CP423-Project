@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-251",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "251",
+  "title": "Computer Organization and Design",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 136, 138, 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Antireq: BME 292/393, CS 251E, ECE 222, ME 262, MTE 262, SYDE 192",
+  "text": "CS 251: Computer Organization and Design\nDescription: Overview of computer organization and performance. Basics of digital logic design. Combinational and sequential elements. Data representation and manipulation. Basics of processor design. Pipelining. Memory hierarchies. Multiprocessors.\nRequirements: Prereq: One of CS 136, 138, 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Antireq: BME 292/393, CS 251E, ECE 222, ME 262, MTE 262, SYDE 192"
+}

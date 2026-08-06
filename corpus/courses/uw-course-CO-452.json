@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-452",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "452",
+  "title": "Integer Programming",
+  "academic_career": "UG",
+  "requirements": "Prereq: CO 255 or 351; Cumulative overall average of at least 80%",
+  "text": "CO 452: Integer Programming\nDescription: Formulation of problems as integer linear programs. Solution by branch-and-bound and cutting plane algorithms. Introduction to the theory of valid inequalities and polyhedral combinatorics.\nRequirements: Prereq: CO 255 or 351; Cumulative overall average of at least 80%"
+}

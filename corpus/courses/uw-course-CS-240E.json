@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-240E",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "240E",
+  "title": "Data Structures and Data Management (Enriched)",
+  "academic_career": "UG",
+  "requirements": "Prereq: A grade of 85% or higher in one of CS 136, 138 or 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Coreq: One of STAT 206, 230, 240. Antireq: CS 234, CS 240, ECE 250",
+  "text": "CS 240E: Data Structures and Data Management (Enriched)\nDescription: Enriched version of CS240.\nRequirements: Prereq: A grade of 85% or higher in one of CS 136, 138 or 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Coreq: One of STAT 206, 230, 240. Antireq: CS 234, CS 240, ECE 250"
+}

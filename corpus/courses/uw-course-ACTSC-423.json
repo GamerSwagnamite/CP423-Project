@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-423",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "423",
+  "title": "Topics in Financial Econometrics",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of AFM 323/STAT 374, STAT 331, STAT 371, STAT 373",
+  "text": "ACTSC 423: Topics in Financial Econometrics\nDescription: This course introduces the use of advanced econometric/statistical methods in studying financial market data, and in quantitatively assessing risks associated with financial investments. The methods presented in this course are tailored to address specific issues of interest in finance, such as the quantification of the risk-return tradeoff, the modelling of time-varying stock/bond market volatility and, possibly, also the statistical analysis of financial derivatives such as options.\nRequirements: Prereq: One of AFM 323/STAT 374, STAT 331, STAT 371, STAT 373"
+}

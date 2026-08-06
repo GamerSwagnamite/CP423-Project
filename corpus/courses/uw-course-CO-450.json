@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-450",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "450",
+  "title": "Combinatorial Optimization",
+  "academic_career": "UG",
+  "requirements": "Prereq: CO 255 or 351; Cumulative overall average of at least 80%",
+  "text": "CO 450: Combinatorial Optimization\nDescription: Characterizations of optimal solutions and efficient algorithms for optimization problems over discrete structures. Topics include network flows, optimal matchings, T-joins and postman tours, matroid optimization.\nRequirements: Prereq: CO 255 or 351; Cumulative overall average of at least 80%"
+}

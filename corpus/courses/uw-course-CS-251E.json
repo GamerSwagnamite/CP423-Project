@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-251E",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "251E",
+  "title": "Computer Organization and Design (Enriched)",
+  "academic_career": "UG",
+  "requirements": "Prereq: A grade of  85% or higher in one of CS 136 or 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Antireq: BME 292/393, CS 251, ECE 222, ME 262, MTE 262, SYDE 192",
+  "text": "CS 251E: Computer Organization and Design (Enriched)\nDescription: Enriched version of CS251.\nRequirements: Prereq: A grade of  85% or higher in one of CS 136 or 146; Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only. Antireq: BME 292/393, CS 251, ECE 222, ME 262, MTE 262, SYDE 192"
+}

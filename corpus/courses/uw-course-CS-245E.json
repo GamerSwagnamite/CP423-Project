@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-245E",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "245E",
+  "title": "Logic and Computation (Enriched)",
+  "academic_career": "UG",
+  "requirements": "Prereq: A grade of 85% or higher in one of CS 136 or 146; Honours Mathematics students only. Antireq: CS 245, ECE 208, PMATH 330, and SE 212",
+  "text": "CS 245E: Logic and Computation (Enriched)\nDescription: Enriched version of CS245.\nRequirements: Prereq: A grade of 85% or higher in one of CS 136 or 146; Honours Mathematics students only. Antireq: CS 245, ECE 208, PMATH 330, and SE 212"
+}

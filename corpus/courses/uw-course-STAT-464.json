@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-464",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "464",
+  "title": "Topics in Probability Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 333",
+  "text": "STAT 464: Topics in Probability Theory\nDescription: Special Topics course as announced by the Department.\nRequirements: Prereq: STAT 333"
+}

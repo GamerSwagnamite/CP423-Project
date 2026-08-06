@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-462",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "462",
+  "title": "Formal Languages and Parsing",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 360 or 365; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only",
+  "text": "CS 462: Formal Languages and Parsing\nDescription: Languages and their representations. Grammars --Chomsky hierarchy. Regular sets and sequential machines. Context-free grammars -- normal forms, basic properties. Pushdown automata and transducers. Operations on languages. Undecidable problems in language theory. Applications to the design of programming languages and compiler construction.\nRequirements: Prereq: CS 360 or 365; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only"
+}

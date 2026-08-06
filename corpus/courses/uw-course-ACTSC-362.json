@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-ACTSC-362",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "ACTSC",
+  "catalog_number": "362",
+  "title": "Introduction to Property and Casualty Practice",
+  "academic_career": "UG",
+  "requirements": "Prereq: ACTSC 231 with a grade of at least 60%; Actuarial Science or Mathematical Finance students only. Coreq: STAT 231 or 241",
+  "text": "ACTSC 362: Introduction to Property and Casualty Practice\nDescription: Introduction to property and casualty coverages. Claim payment process, development triangles, and diagnostic testing. Estimating ultimate claims using development, frequency-severity, expected and Bornhuetter Ferguson methods. Estimating unpaid claim and unallocated loss adjustment expense liabilities. Ratemaking process, including expense provisions, profit and contingencies, and adjustments for catastrophes and large losses. Pricing for deductibles and increased limits. Introduction to reinsurance pricing and reserving. Commercial lines pricing.\nRequirements: Prereq: ACTSC 231 with a grade of at least 60%; Actuarial Science or Mathematical Finance students only. Coreq: STAT 231 or 241"
+}

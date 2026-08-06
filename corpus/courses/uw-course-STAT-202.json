@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-202",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "202",
+  "title": "Introductory Statistics for Scientists",
+  "academic_career": "UG",
+  "requirements": "Prereq: Science or Knowledge Integration students only. Antireq: STAT 220, 230",
+  "text": "STAT 202: Introductory Statistics for Scientists\nDescription: Elementary probability, populations, samples, and distributions with biological examples. Methods for data summary and presentation. Estimation, hypothesis testing, two-sample techniques and paired comparisons, regression, correlation.\nRequirements: Prereq: Science or Knowledge Integration students only. Antireq: STAT 220, 230"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-338",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "338",
+  "title": "Computer Applications in Business: Databases",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 230, 231, 234, 246/246E, 330; or (AFM 341 and (CS 116 or CS 136 or CS 146)); Antireq: CS 348, 448, MSCI 346; Not open to Honours Computer Science, Honours Data Science (BCS), BCFM, BSE",
+  "text": "CS 338: Computer Applications in Business: Databases\nDescription: A user-oriented approach to the management of large collections of data. Methods used for the storage, selection, and presentation of data. Common database management systems.\nRequirements: Prereq: One of CS 230, 231, 234, 246/246E, 330; or (AFM 341 and (CS 116 or CS 136 or CS 146)); Antireq: CS 348, 448, MSCI 346; Not open to Honours Computer Science, Honours Data Science (BCS), BCFM, BSE"
+}

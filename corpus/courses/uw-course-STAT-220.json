@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-220",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "220",
+  "title": "Probability (Non-Specialist Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of MATH 118, 119, 128, 138, 148. Antireq: STAT 202, 230, 240",
+  "text": "STAT 220: Probability (Non-Specialist Level)\nDescription: The laws of probability, discrete and continuous random variables, expectation, central limit theorem.\nRequirements: Prereq: One of MATH 118, 119, 128, 138, 148. Antireq: STAT 202, 230, 240"
+}

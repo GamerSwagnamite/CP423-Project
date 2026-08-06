@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-PMATH-347",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "PMATH",
+  "catalog_number": "347",
+  "title": "Groups and Rings",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 235 or 245",
+  "text": "PMATH 347: Groups and Rings\nDescription: Groups, subgroups, homomorphisms and quotient groups, isomorphism theorems, group actions, Cayley and Lagrange theorems, permutation groups, Sylow theorems, and the fundamental theorem of finite abelian groups. Elementary properties of rings, subrings, ideals, homomorphisms and quotients, isomorphism theorems, and polynomial rings.\nRequirements: Prereq: MATH 235 or 245"
+}

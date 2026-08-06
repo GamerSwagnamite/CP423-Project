@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-52",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "52",
+  "title": "Pre-University Calculus",
+  "academic_career": "UG",
+  "requirements": "",
+  "text": "MATH 52: Pre-University Calculus\nDescription: The concepts included are limits, derivatives, antiderivatives and definite integrals.  These concepts will be applied to solve problems of rates of change, maximum and minimum, curve sketching and areas. The classes of functions used to develop these concepts and applications are: polynomial, rational, trigonometric, exponential, and logarithmic."
+}

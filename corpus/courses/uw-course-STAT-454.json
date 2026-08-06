@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-454",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "454",
+  "title": "Sampling Theory and Practice",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 332 or 372",
+  "text": "STAT 454: Sampling Theory and Practice\nDescription: Sources of survey error. Probability sampling designs, estimation, and efficiency comparisons. Distribution theory and confidence intervals. Generalized regression estimation. Software for survey analysis.\nRequirements: Prereq: STAT 332 or 372"
+}

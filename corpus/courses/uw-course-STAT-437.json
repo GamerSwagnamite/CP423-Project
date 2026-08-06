@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-437",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "437",
+  "title": "Statistical Methods for Life History Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 431",
+  "text": "STAT 437: Statistical Methods for Life History Analysis\nDescription: Statistical methods for the analysis of longitudinal data; hierarchical models, marginal models, and transitional models. Parametric and semiparametric methods for the analysis of survival data under censoring and truncation.\nRequirements: Prereq: STAT 431"
+}

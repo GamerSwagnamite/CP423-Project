@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-342",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "342",
+  "title": "Introduction to Graph Theory",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 239 or 249",
+  "text": "CO 342: Introduction to Graph Theory\nDescription: An introduction to some of the key topics in graph theory: connectivity, planarity, and matchings. Connectivity: Menger's theorem, 3-connected graphs. Planarity: Kuratowski's theorem, uniqueness of planar embeddings. Matchings: Review of Konig's theorem, Tutte's theorem.\nRequirements: Prereq: MATH 239 or 249"
+}

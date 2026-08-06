@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-490",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "490",
+  "title": "Information Systems Management",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: BUS 415W, 486W",
+  "text": "CS 490: Information Systems Management\nDescription: The integration of business and technical considerations in the design, implementation and management of information systems. Topics include: IS planning and development; business, management, executive, and strategic information systems, including case studies of selected large- scale systems; decision support systems; end-user training and development; systems security, disaster planning and recovery. Practical examples of information systems in industry.\nRequirements: Prereq: CS 350 or SE 350; Honours Computer Science, Honours Data Science (BCS), BCFM, BSE students only. Antireq: BUS 415W, 486W"
+}

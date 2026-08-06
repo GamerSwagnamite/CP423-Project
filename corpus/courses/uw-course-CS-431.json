@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-431",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "431",
+  "title": "Data-Intensive Distributed Analytics",
+  "academic_career": "UG",
+  "requirements": "Prereq: (CS 231 or 234 or 341) and (CS 251/251E or 330); Antireq: CS 451; Not open to Honours Computer Science, Honours Data Science (BCS), BCFM, BSE",
+  "text": "CS 431: Data-Intensive Distributed Analytics\nDescription: Introduces non-CS major students to infrastructure for data-intensive analytics, with a focus on abstractions, frameworks, and algorithms that allow developers to distribute computation across many machines. Topics include core concepts (partitioning, replication, locality, consistency), computational models (MapReduce, dataflows, stream processing, bulk-synchronous parallel), and applications.\nRequirements: Prereq: (CS 231 or 234 or 341) and (CS 251/251E or 330); Antireq: CS 451; Not open to Honours Computer Science, Honours Data Science (BCS), BCFM, BSE"
+}

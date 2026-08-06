@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-479",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "479",
+  "title": "Neural Networks",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of CS 335, CS 370, CS 371/AMATH 242; and STAT 206 with at least 60% or STAT 230 or STAT 240",
+  "text": "CS 479: Neural Networks\nDescription: An introduction to neural network methods, with some discussion of their relevance to neuroscience. Simple neuron models and networks of neurons. Training feedforward networks for classification or regression. Learning using the backpropagation of errors. Unsupervised learning methods. Optimal linear decoding. Recurrent neural networks. Convolutional neural networks. Advanced topics, including adversarial inputs and biologically plausible learning methods.\nRequirements: Prereq: One of CS 335, CS 370, CS 371/AMATH 242; and STAT 206 with at least 60% or STAT 230 or STAT 240"
+}

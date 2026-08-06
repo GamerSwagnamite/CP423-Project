@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-373",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "373",
+  "title": "Regression and Forecasting Methods in Finance",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 136, STAT 231 with a grade of 60% or STAT 241; Computing & Financial Management or Math/CPA students only. Antireq: STAT 321, 331, 371, 443, AFM 323/STAT 374",
+  "text": "STAT 373: Regression and Forecasting Methods in Finance\nDescription: Application of regression and time series models in finance; multiple regression; algebraic and geometric representation of least squares; inference methods - confidence intervals and hypothesis tests, ANOVA, prediction; model building and assessment; time series modelling; autoregressive AR(1) models - fitting, assessment and prediction; moving average smoothing, seasonal adjustment; non-stationarity and differencing.\nRequirements: Prereq: MATH 136, STAT 231 with a grade of 60% or STAT 241; Computing & Financial Management or Math/CPA students only. Antireq: STAT 321, 331, 371, 443, AFM 323/STAT 374"
+}

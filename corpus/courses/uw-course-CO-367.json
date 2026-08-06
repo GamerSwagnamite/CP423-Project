@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-367",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "367",
+  "title": "Nonlinear Optimization",
+  "academic_career": "UG",
+  "requirements": "Prereq: (One of CO 250, 255, 352) and MATH 128 with a grade of at least 70% or MATH 138 or 148",
+  "text": "CO 367: Nonlinear Optimization\nDescription: A course on the fundamentals of nonlinear optimization, including both the mathematical and the computational aspects. Necessary and sufficient optimality conditions for unconstrained and constrained problems. Convexity and its applications. Computational techniques and their analysis.\nRequirements: Prereq: (One of CO 250, 255, 352) and MATH 128 with a grade of at least 70% or MATH 138 or 148"
+}

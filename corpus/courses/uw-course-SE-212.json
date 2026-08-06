@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-SE-212",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "SE",
+  "catalog_number": "212",
+  "title": "Logic and Computation",
+  "academic_career": "UG",
+  "requirements": "Prereq: CS 138 and MATH 135. Antireq: CS 245, CS 245E, ECE 208, PMATH 330",
+  "text": "SE 212: Logic and Computation\nDescription: Formal logic. Proof systems and styles. Rudimentary model theory. Formal models of computation. Logic-based specification. Correctness proofs. Applications in software engineering.\nRequirements: Prereq: CS 138 and MATH 135. Antireq: CS 245, CS 245E, ECE 208, PMATH 330"
+}

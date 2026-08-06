@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-MATH-247",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "MATH",
+  "catalog_number": "247",
+  "title": "Calculus 3 (Advanced Level)",
+  "academic_career": "UG",
+  "requirements": "Prereq: MATH 146, 148; Honours Mathematics students only. Antireq: MATH 237",
+  "text": "MATH 247: Calculus 3 (Advanced Level)\nDescription: Topology of real n-dimensional space: completeness, closed and open sets, connectivity, compact sets, continuity, uniform continuity. Differential calculus on multivariable functions: partial differentiability, differentiability, chain rule, Taylor polynomials, extreme value problems. Riemann integration: Jordan content, integrability criteria, Fubini's theorem, change of variables. Local properties of continuously differentiable functions: open mapping theorem, inverse function theorem, implicit function theorem.\nRequirements: Prereq: MATH 146, 148; Honours Mathematics students only. Antireq: MATH 237"
+}

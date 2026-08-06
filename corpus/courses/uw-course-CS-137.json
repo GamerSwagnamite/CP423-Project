@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CS-137",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CS",
+  "catalog_number": "137",
+  "title": "Programming Principles",
+  "academic_career": "UG",
+  "requirements": "Prereq: Software Engineering students only",
+  "text": "CS 137: Programming Principles\nDescription: Review of fundamental programming concepts and their application. Procedures and parameter passing. Arrays and structures. Recursion. Sorting. Pointers and simple dynamic structures. Space and time analysis of designs. Design methodologies.\nRequirements: Prereq: Software Engineering students only"
+}

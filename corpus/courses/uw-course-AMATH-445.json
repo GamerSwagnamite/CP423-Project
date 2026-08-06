@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-AMATH-445",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "AMATH",
+  "catalog_number": "445",
+  "title": "Scientific Machine Learning",
+  "academic_career": "UG",
+  "requirements": "Prereq: One of AMATH 250, 251, 350, MATH 211/ECE 205, MATH 218, 228",
+  "text": "AMATH 445: Scientific Machine Learning\nDescription: The course provides an in-depth exploration of how deep learning techniques are applied in various scientific and medical domains. The course introduces basic concepts of deep learning, explores different deep learning architectures and algorithms, and focuses on their applications in scientific and biomedical research. The integration of scientific knowledge with machine learning techniques is emphasized throughout the course. Students will gain hands-on experience by executing the acquired concepts using Python.\nRequirements: Prereq: One of AMATH 250, 251, 350, MATH 211/ECE 205, MATH 218, 228"
+}

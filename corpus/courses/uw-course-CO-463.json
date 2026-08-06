@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-CO-463",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "CO",
+  "catalog_number": "463",
+  "title": "Convex Optimization and Analysis",
+  "academic_career": "UG",
+  "requirements": "Prereq: (CO 255 or 367), (One of AMATH/PMATH 331, PMATH 333, PMATH 351); Cumulative overall average of at least 80%",
+  "text": "CO 463: Convex Optimization and Analysis\nDescription: An introduction to the modern theory of convex programming, its extensions and applications. Structure of convex sets, separation and support, subgradient calculus for convex functions, Fenchel conjugacy and duality, Lagrange multipliers. Ellipsoid method for convex optimization.\nRequirements: Prereq: (CO 255 or 367), (One of AMATH/PMATH 331, PMATH 333, PMATH 351); Cumulative overall average of at least 80%"
+}

@@ -1,0 +1,10 @@
+{
+  "doc_id": "uw-course-STAT-436",
+  "source": "University of Waterloo Open Data API (Courses endpoint)",
+  "subject": "STAT",
+  "catalog_number": "436",
+  "title": "Introduction to the Analysis of Spatial Data in Health Research",
+  "academic_career": "UG",
+  "requirements": "Prereq: STAT 431",
+  "text": "STAT 436: Introduction to the Analysis of Spatial Data in Health Research\nDescription: The objective of this course is to develop understanding and working knowledge of spatial models and analysis of spatial data. The course provides an introduction to the rudiments of statistical inference based on spatially correlated data. Methods of estimation and testing will be developed for geostatistical models based on variograms and spatial autogressive models. Concepts and application of methods will be emphasized through case studies and projects with health applications.\nRequirements: Prereq: STAT 431"
+}
