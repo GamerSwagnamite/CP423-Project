@@ -8,6 +8,7 @@
 # ----------------------------------------------------------------
 # Imports
 # ----------------------------------------------------------------
+import json
 from pathlib import Path
 
 import numpy as np
@@ -20,6 +21,7 @@ from corpus_utils import load_corpus
 SCRIPT_DIR = Path(__file__).parent
 CORPUS_DIR = SCRIPT_DIR / "corpus" / "courses"
 EMBEDDINGS_CACHE_PATH = SCRIPT_DIR / "corpus_embeddings.npy"
+EMBEDDINGS_MANIFEST_PATH = SCRIPT_DIR / "corpus_embeddings_manifest.json"
 
 MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
@@ -39,11 +41,30 @@ class DenseRetriever:
         if use_cache and EMBEDDINGS_CACHE_PATH.exists():
             print(f"Loading cached embeddings from {EMBEDDINGS_CACHE_PATH}")
             self.doc_embeddings = np.load(EMBEDDINGS_CACHE_PATH)
-            if self.doc_embeddings.shape[0] != len(documents):
-                print("  Cache size mismatch with corpus -- recomputing.")
+
+            current_doc_ids = [doc["doc_id"] for doc in documents]
+            cached_doc_ids = self._load_manifest()
+
+            if cached_doc_ids != current_doc_ids:
+                # count-only checks can pass by coincidence (e.g. two
+                # different 281-document corpora); comparing the full
+                # doc_id list in order catches silent misalignment that a
+                # count check alone would miss.
+                print("  Cache does not match current corpus (doc_id mismatch) -- recomputing.")
                 self.doc_embeddings = self._embed_documents()
         else:
             self.doc_embeddings = self._embed_documents()
+
+    def _load_manifest(self) -> list[str] | None:
+        if not EMBEDDINGS_MANIFEST_PATH.exists():
+            return None
+        with open(EMBEDDINGS_MANIFEST_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+
+    def _save_manifest(self):
+        doc_ids = [doc["doc_id"] for doc in self.documents]
+        with open(EMBEDDINGS_MANIFEST_PATH, "w", encoding="utf-8") as f:
+            json.dump(doc_ids, f)
 
     def _embed_documents(self) -> np.ndarray:
         print(f"Embedding {len(self.documents)} documents with {MODEL_NAME}...")
@@ -53,6 +74,7 @@ class DenseRetriever:
             texts, normalize_embeddings=True, show_progress_bar=True
         )
         np.save(EMBEDDINGS_CACHE_PATH, embeddings)
+        self._save_manifest()
         print(f"Cached embeddings to {EMBEDDINGS_CACHE_PATH}")
         return embeddings
 
@@ -90,7 +112,7 @@ def main():
 
     retriever = DenseRetriever(documents)
 
-    demo_query = "What course teaches interactive methods for visually exploring high-dimensional data?"
+    demo_query = "What is the prerequisite for STAT 442?"
     print(f"\nDemo query: {demo_query!r}")
     results = retriever.search(demo_query, top_k=5)
 
