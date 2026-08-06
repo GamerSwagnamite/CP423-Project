@@ -23,8 +23,8 @@
       ]
     },
     "generated_answer": "The antirequisite course for CS 431 (Data-Intensive Distributed Analytics) is CS 451 [1].",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -36,23 +36,23 @@
       "uw-course-CO-227"
     ],
     "retrieved_doc_ids": [
-      "uw-course-CO-327",
       "uw-course-CO-227",
-      "uw-course-CO-255",
+      "uw-course-CO-327",
       "uw-course-CO-250",
+      "uw-course-CO-255",
       "uw-course-CO-466"
     ],
     "retrieval_metrics": {
       "applicable": true,
       "recall_at_k": 1.0,
-      "reciprocal_rank": 0.5,
+      "reciprocal_rank": 1.0,
       "hits": [
         "uw-course-CO-227"
       ]
     },
-    "generated_answer": "I don't know\n\nThe context provided does not specify prerequisites or antirequisites for CO 227 in relation to other introductory-level courses. The information given only states the prerequisite requirements for CO 227 itself, which are MATH 106, 114, 115, 136, or 146 [2], but does not indicate what courses at an introductory level could serve as prerequisites for CO 227.",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generated_answer": "CO 227 prerequisites include one of the following courses: MATH 106, MATH 114, MATH 115, MATH 136, or MATH 146 [1].",
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -68,7 +68,7 @@
       "uw-course-ACTSC-232",
       "uw-course-ACTSC-453",
       "uw-course-STAT-437",
-      "uw-course-STAT-450"
+      "uw-course-STAT-454"
     ],
     "retrieval_metrics": {
       "applicable": true,
@@ -79,8 +79,8 @@
       ]
     },
     "generated_answer": "Kaplan-Meier and Nelson-Aalen estimators for survival functions are mentioned in the ACTSC 454 course description [1].",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -93,10 +93,10 @@
     ],
     "retrieved_doc_ids": [
       "uw-course-CS-136",
+      "uw-course-CS-146",
       "uw-course-CS-138",
       "uw-course-CS-115",
-      "uw-course-CS-135",
-      "uw-course-CS-136L"
+      "uw-course-CS-135"
     ],
     "retrieval_metrics": {
       "applicable": true,
@@ -107,8 +107,8 @@
       ]
     },
     "generated_answer": "The corequisite for CS 136 (Elementary Algorithm Design and Data Abstraction) is CS 136L [1].",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -134,9 +134,9 @@
         "uw-course-PMATH-331"
       ]
     },
-    "generated_answer": "The prerequisite for PMATH 331 (Applied Real Analysis) is MATH 237 or 247. [1]",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generated_answer": "The prerequisite for PMATH 331 (Applied Real Analysis) is MATH 237 or 247 [1].",
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -148,23 +148,23 @@
       "uw-course-MATH-247"
     ],
     "retrieved_doc_ids": [
-      "uw-course-MATH-247",
-      "uw-course-MATH-207",
-      "uw-course-STAT-240",
-      "uw-course-MATH-237",
-      "uw-course-STAT-241"
+      "uw-course-MATH-147",
+      "uw-course-MATH-148",
+      "uw-course-MATH-145",
+      "uw-course-MATH-245",
+      "uw-course-MATH-247"
     ],
     "retrieval_metrics": {
       "applicable": true,
       "recall_at_k": 1.0,
-      "reciprocal_rank": 1.0,
+      "reciprocal_rank": 0.2,
       "hits": [
         "uw-course-MATH-247"
       ]
     },
-    "generated_answer": "MATH 247 (Calculus 3, Advanced Level) is restricted to Honours Mathematics students only [1].",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generated_answer": "Honours Mathematics students only. [5]",
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -180,8 +180,8 @@
       "uw-course-AMATH-331",
       "uw-course-PMATH-331",
       "uw-course-AMATH-332",
-      "uw-course-AMATH-455",
-      "uw-course-PMATH-333"
+      "uw-course-PMATH-351",
+      "uw-course-PMATH-332"
     ],
     "retrieval_metrics": {
       "applicable": true,
@@ -192,9 +192,9 @@
         "uw-course-PMATH-331"
       ]
     },
-    "generated_answer": "Yes, AMATH 331 and PMATH 331 have the same antirequisites: neither excludes the other as an alternative prerequisite; however, PMATH 351 is listed as a potential antirequisite for PMATH 331 but not for AMATH 331 [1], [2]. Therefore, while PMATH 351 cannot be taken concurrently with or as a substitute for PMATH 331, there are no mutual exclusions between the two courses based on their antirequisites.",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generated_answer": "No, they do not have the same antirequisites. \n\nAMATH 331 has antirequisites PMATH 333 and PMATH 351 [1].\n\nPMATH 331 does not list any antirequisites [2].",
+    "generation_correct": true,
+    "generation_cited_correctly": true,
     "correctly_abstained": null
   },
   {
@@ -207,23 +207,24 @@
       "uw-course-CS-348"
     ],
     "retrieved_doc_ids": [
+      "uw-course-CS-251E",
+      "uw-course-CS-241E",
       "uw-course-CS-251",
       "uw-course-CS-350",
-      "uw-course-CS-448",
-      "uw-course-CS-247",
       "uw-course-CS-348"
     ],
     "retrieval_metrics": {
       "applicable": true,
-      "recall_at_k": 0.5,
-      "reciprocal_rank": 0.2,
+      "recall_at_k": 1.0,
+      "reciprocal_rank": 1.0,
       "hits": [
+        "uw-course-CS-251E",
         "uw-course-CS-348"
       ]
     },
-    "generated_answer": "No, CS 251E and CS 348 are not restricted to the same set of academic programs. \n\nCS 251E is a prerequisite for certain courses and is specifically restricted to Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only [1].\n\nCS 348 has similar restrictions, also being open to Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only [5]. However, it has additional corequisites and antirequisites that are not shared with CS 251E.",
-    "generation_correct": null,
-    "generation_cited_correctly": null,
+    "generated_answer": "No, CS 251E and CS 348 are not restricted to the same set of academic programs.\n\nCS 251E is restricted to Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only [1].\n\nCS 348 is also restricted to Honours Computer Science, Honours Data Science (BCS, BMath), BCFM, BSE students only [5]. \n\nWhile both courses have the same set of academic programs as prerequisites, CS 251E has additional restrictions that exclude certain other programs like BME, while CS 348 does not. Therefore, they are effectively restricted to different sets of programs due to these specific requirements.",
+    "generation_correct": false,
+    "generation_cited_correctly": false,
     "correctly_abstained": null
   },
   {
@@ -233,19 +234,19 @@
     "reference_answer": "I don't know -- the corpus contains course descriptions, prerequisites, and units, but no instructor or scheduling information.",
     "gold_doc_ids": [],
     "retrieved_doc_ids": [
+      "uw-course-STAT-XXX",
+      "uw-course-STAT-2XX",
       "uw-course-AMATH-442",
-      "uw-course-STAT-442",
-      "uw-course-STAT-464",
-      "uw-course-STAT-341",
-      "uw-course-STAT-334"
+      "uw-course-CO-486",
+      "uw-course-STAT-444"
     ],
     "retrieval_metrics": {
       "applicable": false
     },
-    "generated_answer": "I don't know [1-5]. The provided context does not contain information about instructors or the scheduling details for specific terms.",
+    "generated_answer": "I don't know. The provided context does not contain information about instructors for specific courses or terms. [1][2][3][4][5]",
     "generation_correct": null,
     "generation_cited_correctly": null,
-    "correctly_abstained": null
+    "correctly_abstained": true
   },
   {
     "id": "e10",
@@ -257,15 +258,15 @@
       "uw-course-AMATH-499",
       "uw-course-ACTSC-453",
       "uw-course-PMATH-441",
-      "uw-course-MATH-135",
-      "uw-course-STAT-316"
+      "uw-course-MATH-145",
+      "uw-course-AMATH-495"
     ],
     "retrieval_metrics": {
       "applicable": false
     },
-    "generated_answer": "I don't know\n\nThe provided context does not contain any information about tuition costs for courses at the University of Waterloo Faculty of Mathematics or anywhere else.",
+    "generated_answer": "I don't know. The provided context does not contain any information about tuition costs for courses at the University of Waterloo Faculty of Mathematics.",
     "generation_correct": null,
     "generation_cited_correctly": null,
-    "correctly_abstained": null
+    "correctly_abstained": true
   }
 ]
