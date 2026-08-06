@@ -23,6 +23,11 @@ CORPUS_DIR = SCRIPT_DIR / "corpus" / "courses"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "qwen2.5:7b-instruct-q4_K_M"  # match whatever you pulled in Ollama
 
+# fixed seed + zero temperature for reproducible outputs across runs --
+# without this, Ollama samples stochastically and re-running the same
+# question can produce a different (and differently-graded) answer.
+RANDOM_SEED = 42
+
 RAG_TOP_K = 5  # how many retrieved chunks to give the LLM as context
 
 SYSTEM_INSTRUCTIONS = """You are a course advising assistant for the University of Waterloo Faculty of Mathematics. Answer the user's question using ONLY the information in the numbered context chunks below.
@@ -53,7 +58,12 @@ def build_prompt(query: str, retrieved_chunks: list[dict]) -> str:
 def call_llm(prompt: str) -> str:
     resp = requests.post(
         OLLAMA_URL,
-        json={"model": MODEL_NAME, "prompt": prompt, "stream": False},
+        json={
+            "model": MODEL_NAME,
+            "prompt": prompt,
+            "stream": False,
+            "options": {"seed": RANDOM_SEED, "temperature": 0},
+        },
         timeout=120,
     )
     resp.raise_for_status()
