@@ -19,6 +19,12 @@ import requests
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL_NAME = "qwen2.5:7b-instruct-q4_K_M"  # match whatever you pulled in Ollama
 
+# fixed seed + zero temperature for reproducible outputs across runs --
+# without this, Ollama samples stochastically and re-running the same
+# question can produce a different (and differently-graded) answer, as
+# happened with e7 between runs.
+RANDOM_SEED = 42
+
 SCRIPT_DIR = Path(__file__).parent
 OUTPUT_PATH = SCRIPT_DIR / "diagnostic_results.json"
 
@@ -100,7 +106,12 @@ def ask_bare_llm(question: str) -> str:
 
     resp = requests.post(
         OLLAMA_URL,
-        json={"model": MODEL_NAME, "prompt": prompt, "stream": False},
+        json={
+            "model": MODEL_NAME,
+            "prompt": prompt,
+            "stream": False,
+            "options": {"seed": RANDOM_SEED, "temperature": 0},
+        },
         timeout=120,
     )
     resp.raise_for_status()
