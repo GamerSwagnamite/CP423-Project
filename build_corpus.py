@@ -42,7 +42,12 @@ ACADEMIC_CAREERS_TO_KEEP = {"UG"}  # add "GRD" here too if you want grad courses
 # stub/placeholder descriptions provide nothing for retrieval to find, and
 # can quietly hurt precision by embedding ambiguously close to real content.
 # filtered out alongside empty descriptions below.
-MIN_DESCRIPTION_WORDS = 8
+# NOTE: originally set to 8, which incorrectly caught legitimate short
+# descriptions like "Enriched version of CS251." (4 words) -- the regex
+# patterns below do the real work of catching genuinely uninformative stubs
+# (e.g. cross-listing placeholders); this threshold is now just a floor
+# against near-empty noise, not the primary filter.
+MIN_DESCRIPTION_WORDS = 4
 STUB_PATTERNS = [
     r"refer to .* calendar",
     r"see .* calendar",
